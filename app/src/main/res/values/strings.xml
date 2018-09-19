@@ -1,0 +1,965 @@
+<resources>
+    <string name="app_name">Guarda Corpo</string>
+
+    <string name="banner">ca-app-pub-7979689703488774/4117286099</string>
+    <string name="inters">ca-app-pub-7979689703488774/6918601457</string>
+
+    <string-array name="menu_nr">
+        <item>NR 1 - Disposições Gerais</item>
+        <item>NR 2 - Inspeção Prévia</item>
+        <item>NR 3 - Embargo e Interdição</item>
+        <item>NR 4 - Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho - SESMT</item>
+        <item>NR 5 - Comissão Interna de Prevenção de Acidentes - CIPA</item>
+        <item>NR 6 - Equipamento de Proteção Individual - EPI</item>
+        <item>NR 7 - Programa de Controle Médico de Saúde Ocupacional - PCMSO</item>
+        <item>NR 8 - Edificações</item>
+        <item>NR 9 - Programa de Prevenção de Riscos Ambientais - PPRA</item>
+        <item>NR 10 - Segurança em Instalações e Redes Elétricas</item>
+        <item>NR 11 - Transporte, Movimentação, Armazenagem e Manuseios de Materiais</item>
+        <item>NR 12 - Segurança no Trabalho em Máquinas e Equipamentos</item>
+        <item>NR 13 - Caldeiras, Vasos de Pressão e Tubulações</item>
+        <item>NR 14 - Fornos</item>
+        <item>NR 15 - Atividades e Operações Insalubres</item>
+        <item>NR 16 - Atividades e Operações Perigosas</item>
+        <item>NR 17 - Ergonomia</item>
+        <item>NR 18 - Condições e Meio Ambiente de Trabalho na Indústria da Construção</item>
+        <item>NR 19 - Explosivos</item>
+        <item>NR 20 - Segurança e Saúde no Trabalho com Inflamavéis e Combustivéis</item>
+        <item>NR 21 - Trabalhos a Céu Aberto</item>
+        <item>NR 22 - Segurança e Saúde Ocupacional na Mineração</item>
+        <item>NR 23 - Proteção Contra Incêndio</item>
+        <item>NR 24 - Condições Sanitárias e de Conforto nos Locais de Trabalho</item>
+        <item>NR 25 - Resíduos Industriais</item>
+        <item>NR 26 - Sinalização de Segurança</item>
+        <item>NR 27 - CANCELADA</item>
+        <item>NR 28 - Fiscalização e Penalidades</item>
+        <item>NR 29 - Norma Regulametadora de Segurança e Saúde no Trabalho Portuário</item>
+        <item>NR 30 - Segurança e Saúde no Trabalho Aquaviário</item>
+        <item>NR 31 - Segurança e Saúde no Trabalho na Agricultura, Pecuária, Silvicultura, Exploração Floresta e Aquicultura</item>
+        <item>NR 32 - Segurança e Saúde no Trabalho em Serviços de Saúde</item>
+        <item>NR 33 - Segurança e Saúde no Trabalho em Espaços Confinados</item>
+        <item>NR 34 - Condições e Meio Ambiente de Trabalho na Indústria de Construção e Reparação Naval</item>
+        <item>NR 35 - Trabalho em Altura</item>
+        <item>NR 36 - Segurança e Saúde no Trabalho nas Empresas de Abate, Processamento de Carnes e Derivados</item>
+
+
+    </string-array>
+
+
+    <string name="datas">28/02 - Dia Internacional de Prevenção às Lesões por Esforço Repetitivos (LER)
+        \n\n08/03 - Dia Internacional da Mulher
+        \n\n16/04 - Dia Nacional da Voz
+        \n\n28/04 - Dia Mundial em Mémoria às vítimas de Acidentes de TRabalho e Dia Mundial de Segurança e Saúde no Trabalho
+        \n\n01/05 - Dia do Trabablhador
+        \n\n02/05 - Dia Nácional de Combate ao Assédio Moral
+        \n\n13/05 - Abolição da Escravatura
+        \n\n18/05 - Dia Nacional ao Abuso e à Exploração Sexual de Crianças e Adolescentes
+        \n\n31/05 - Dia Mundial sem Tabaco
+        \n\n12/06 - Dia Mundial de Combate ao Trabalho Infantil
+        \n\n25/07 - Dia do Trabalhador Rural
+        \n\n27/07 - Dia Nacional de Prevenção de Acidentes de Trabalho
+        \n\n10/11 - Dia Nacional de Prevenção e Combate à Surdez
+        \n\n27/11 - Dia Nacional dos Técnicos de Segurança do Trabalho
+        \n\n09/12 - Dia do Fonoaudiólogo
+
+    </string>
+
+    <string name="tecnico">O profissional de Segurança do Trabalho atua conforme sua formação, seja Médico, Enfermeiro, Engenheiro ou Técnico.
+        \n\nDe modo geral o técnico de segurança e o engenheiro atuam no desenvolvimento dos programas de prevenção de acidentes, CIPA, uso correto dos EPI`s, na elaboração de planos de prevenção a riscos ambientais, insperções de segurança, laudos técnicos e organização de palestras e treinamentos.
+
+        \n\nO médico e o enfermeiro do trabalho se dedicam a prevenção de doenças, realizando consultas, tratamentos e os exames ocupacionais.
+
+        \n\nO MTE descrimina a ocupação do Técnico em Segurança do Trabalho: Participam da elaboração e implementam política de saúde e segurança do trabalho, realizam diagnóstico da situação de SST da instituição, identificam variáveis de controle de doenças, acidentes, qualidade de vida e meio ambiente.
+        \n\nDesenvolvem ações educativas na área de saúde e segurança do trabalho; integram processos de negociação. Participam da adoção de tecnologias e processos de trabalho; investigam, analisam acidentes de trabalho e recomendam medidas de prevenção e controle.
+
+
+    </string>
+
+
+    <string name="historia">
+
+        A seguir, apresentaremos alguns fatos, adaptados da obra “Introdução à Higiene
+        Ocupacional”, publicada no ano de 2004 pela FUNDACENTRO (Fundação Jorge
+        Duprat Figueiredo de Segurança e Medicina do Trabalho), com a inclusão de
+        alguns eventos, pelos elaboradores deste caderno, que fazem parte da história
+        da segurança do trabalho:
+
+        \n\n<b>a) Anos 400 (a.C.) a 50, aproximadamente:</b>
+                \n\nIdentificação de envenenamento por chumbo em mineiros e metalúrgicos, por Hipócrates, em seu clássico “Ares, Águas e Lugares”.
+                \nUtilização de bexigas de animais como barreira para reter poeiras e fumos durante a respiração, por Plínio, o Velho, em seu tratado “De Historia Naturalis”.
+
+        \n\n<b>b) Anos de 1400 a 1500</b>
+            \n\nEm 1473, houve o reconhecimento do perigo de alguns vapores metálicos e a descrição de envenenamento ocupacional por mercúrio e chumbo, por Ellenborg, com sugestões de medidas preventivas.
+
+
+        \n\n<b>c) Anos de 1500 a 1800</b>
+                \n\nNo ano de 1556, Georgius Agricola elabora a descrição do processo de mineração, fusão e refino de metais, mencionando doenças e acidentes acontecidos, sugestões para prevenção e a inclusão do uso de ventilação para essas atividades (primeiro livro a abordar a questão de segurança denominado “De Re Metallica”).
+               \n\n Em 1567, Paracelso fez as primeiras descrições sobre doenças respiratórias relativas à atividade de mineração, com maior ênfase na contaminação por Mercúrio. Considerado o Pai da Toxicologia, Paracelso é autor da famosa frase “Todas as substâncias são venenos. É a dose que diferencia o veneno dos remédios”.
+                \n\nO ano de 1700 foi marcado pela publicação da obra “De Morbis Artificium Diatriba”, conhecida também como “Doença dos Artífices”, por Bernardino Ramazzini, a qual apresenta um estudo bastante caracterizado sobre doenças relacionadas ao trabalho, em torno de 50 (cinquenta) profissões da época, inclusive com indicação de precauções nas atividades. Esse é considerado o pai da Medicina Ocupacional, além de ter introduzido a expressão, nas entrevistas médicas (anamnese), “Qual é a sua ocupação?”.
+                \n\nNa Inglaterra, no ano de 1775, Percival Lott promoveu a caracterização do câncer do escroto, doença diagnosticada entre os trabalhadores que tinham como tarefa limpar chaminés, cuja causa identificada foi a fuligem e a ausência de higiene. Esse evento resultou na criação do “Ato dos Limpadores de Chaminé de 1788”.
+
+        \n\n<b>d) Anos de 1800 a 1920</b>
+            \n\nEm 1802, foi criada a “Lei da Saúde e Moral dos Aprendizes”, na Inglaterra, onde foi estabelecido um limite de 12 horas para a jornada diária de trabalho, proibição do trabalho noturno e uso obrigatório de ventilação do ambiente.
+            \n\nEm 1830, foi publicado na Inglaterra um livro sobre doenças ocupacionais por Charles Thackrah e Percival Lott (“Os efeitos das principais atividades, ofícios e profissões, do estado civil e hábitos de vida, na saúde e longevidade, com sugestões para a remoção de muitos dos agentes que produzem doenças e encurtam a duração da vida”). A obra contribuiu para o desenvolvimento da legislação ocupacional.
+
+        \n\nEm 1833, também na Inglaterra, foi criada a “Lei das Fábricas” que fixava em 13 anos a idade mínima para o trabalho, proibia o trabalho noturno para menores de 18 anos e exigia exames médicos das crianças trabalhadoras.
+
+\n\nEm 1835, Benjamin Cready publicou o livro “On the Influence of Trades, Professions, and Occupations in the United States in Production of Disease” (Influência dos Negócios, Profissões e Ocupações na Produção de Doença nos Estados Unidos).
+
+\n\nEm 1851, Willian Farr relatou a mortalidade excessiva entre os fabricantes de vasos; impacto das doenças respiratórias e dos óbitos em trabalhadores da mineração na Inglaterra. • Em 1864, a “Lei das Fábricas” (1833) foi ampliada, exigindo processos de ventilação para reduzir danos à saúde.
+
+\n\nEm 1869, na Alemanha e em 1877, na Suíça foram instituídas leis que responsabilizavam os empregadores por lesões ocupacionais.
+
+\n\nEm 1907, Frederick Winslow Taylor publica a obra “Princípios de Administração Científica”, nos Estados Unidos. Nesse trabalho, Taylor apresentou técnicas, ou mecanismos, como o estudo de tempos e movimentos, a padronização de instrumentos e ferramentas, a padronização de movimentos, conveniência de áreas de planejamento, uso de cartões de instrução, sistema de pagamento de acordo com o desempenho e cálculo de custos.
+
+\n\nEm 1910, nos Estados Unidos, Henry Ford utiliza os “Princípios de Produção em Massa” em linhas de montagem, diminuindo assim o tempo de duração dos processos, a quantidade de matéria-prima estocada e o aumento da capacidade de produção, através de capacitação dos trabalhadores. No ano de 1898, juntamente com investidores, funda a Detroit Automobile Company, que foi fechada mais tarde. Em 1903, Henry Ford funda a Ford Motor Company. Ainda no mesmo ano, houve o reconhecimento das neuroses das telefonistas como doenças profissionais.
+
+\n\nEm 1910, Oswaldo Cruz, “o pai das campanhas”, na construção da estrada de ferro Madeira-Mamoré, realizou estudos e trabalhos sobre as doenças infecciosas relacionadas ao trabalho, como a malária e o amarelão, que tornavam os trabalhadores incapazes e matavam milhares deles.
+
+\n\nEm 1911, ocorreu a primeira conferência de doenças industriais nos Estados Unidos.
+
+\n\nAssim como se promove a organização do National Safety Council, os primeiros grupos (agências) de higienistas são estabelecidos nos estados de Ohio e Nova York.
+
+\n\nEm 1912, durante o 4º Congresso Operário Brasileiro, constituiu-se a Confederação Brasileira do Trabalho (CBT), a qual teve como finalidade promover um programa de reivindicações operárias, tais como: jornada de trabalho de oito horas, semana de seis dias, construção de casas para operários, indenização para acidentes de trabalho, limitação da jornada de trabalho para mulheres e crianças (menores de quatorze anos), contratos coletivos (na época, individuais), obrigatoriedade de pagamento de seguro para os casos de doenças e velhice, estabelecimento de um salário mínimo, reforma de tributos públicos e exigência de instrução primária.
+
+\n\nEntre os anos de 1914 e 1919, após o término da Primeira Guerra Mundial, foi criada, pela Conferência de Paz, a Organização Internacional do Trabalho (OIT), convertida na Parte XIII do “Tratado de Versalhes”.
+
+\n\nEm 1914, nos Estados Unidos, o serviço de saúde pública (USPHS) organiza a divisão de higiene industrial.
+
+\n\nEm 1918, o presidente do Brasil Wenceslau Braz Gomes cria, através do Decreto nº 3.550, o Departamento Nacional do Trabalho, com o intuito de regulamentar a organização do trabalho.
+
+\n\nEm 1919, com o Decreto Legislativo nº 3.724, foi instituída a reparação em caso de doença contraída pelo exercício do trabalho. O Decreto é conhecido como a primeira lei sobre acidentes de trabalho.
+
+\n\nEm 1920, com a reforma “Carlos Chagas”, a higiene do trabalho incorpora-se ao âmbito da saúde pública através do Departamento Nacional de Saúde Pública (DNSP), órgão vinculado ao Ministério da Justiça e Negócios Interiores.
+
+\n\nEm 1925, Drª Alice Hamilton, médica americana, publicou “Venenos Industriais nos Estados Unidos” e, em 1934, “Toxicologia Industrial”.
+
+
+
+\n\n<b>e) Anos de 1921 a 1950</b>
+
+
+
+\n\nEm 1922, a Universidade de Harvard cria o curso de graduação em Higiene Industrial.
+
+\n\nEm 1923, o presidente do Brasil Arthur Bernardes cria o Conselho Nacional do Trabalho, pelo Decreto n° 16.027.
+
+\n\nEm 1923, cria-se a Inspetoria de Higiene Industrial e Profissional junto ao Departamento Nacional de Saúde, no Ministério da Justiça e Negócios Interiores.
+
+\n\nNo ano de 1930, o Ministério do Trabalho, Indústria e Comércio é criado via Decreto n° 19.433, assinado pelo presidente Getúlio Vargas. O Ministério assumia as questões de saúde ocupacional e era coordenado pelo Ministro Lindolfo Leopoldo Boeckel Collor, empossado na ocasião.
+
+\n\nEm 1934, com o Decreto Legislativo nº 24.637, é criada a Inspetoria de Higiene e Segurança do Trabalho, ampliando-se assim, o conceito de doença profissional. Tal decreto é considerado a segunda lei de acidentes do trabalho.
+
+\n\nEm 1938, a Inspetoria de Higiene e Segurança do Trabalho (Decreto nº 24.637) se transforma em Serviço de Higiene do Trabalho passando, em 1942, a denominar-se Divisão de Higiene e Segurança do Trabalho.
+
+\n\nEm 1938, nos Estados Unidos, foi fundada a ACGIH, na época chamada de National Conference Governmental Industrial Hygienists.
+
+\n\nEm 1939, também nos EUA, é fundada a AIHA (American Industrial Hygiene Association). A ASA (American Standard Association, atualmente ANSI) e a ACGIH publicam a primeira lista de “Concentrações Máximas Permissíveis” (MAC’s) para substâncias químicas presentes nas indústrias.
+
+\n\nEntre os anos de 1939 e 1945, durante a Segunda Guerra Mundial, foram desenvolvidos programas de higiene para manter a capacidade produtiva da indústria, até então com atenção voltada somente para a indústria bélica e operada por mulheres.
+
+\n\nEm 1943, a ACGIH publicou os “Primeiros Limites Máximos Permissíveis”, que em 1948, passaram a ser chamados de “Limites de Tolerância TLV®” (Threshold Limit Value).
+
+\n\nEm 1943, no Brasil, com o Decreto-lei nº 5.452, de 1º de maio, entra em vigor a “Consolidação das Leis do Trabalho” (CLT), com capítulo referente à Higiene e Segurança do Trabalho.
+
+\n\nEm 1944 é incluída a CIPA (Comissão Interna de Prevenção de Acidentes) na Legislação Brasileira pelo Decreto nº 7036/44, conhecido como “Lei de Acidentes de Trabalho de 1944”. • Em 1947 é fundada a International Organization for Standardization (ISO), em português, Organização Internacional de Normatização.
+
+\n\nEm 1948 é criada a Organização Mundial da Saúde (OMS) com políticas voltadas também à saúde dos trabalhadores.
+
+\n\nEm 1949 é criada a Ergonomic Research Society.
+
+
+
+\n\n<b>f) Anos de 1950 a 2000</b>
+
+
+
+\n\nEm 1953, a Portaria nº 155 regulamenta as ações da CIPA.
+
+\n\nEm 1953 é publicada a Recomendação nº 97 da OIT sobre “Proteção da Saúde dos Trabalhadores”.
+
+\n\nEm 1956, o governo brasileiro aprova por Decreto Legislativo a Convenção nº 81 – Fiscalização do Trabalho, da OIT.
+
+\n\nLe Guillant publica a obra “A Neurose das Telefonistas – Síndrome Geral de Fadiga Nervosa”, em 1956.
+
+\n\nEm 1957, em conferência da OIT, foram estabelecidos os objetivos e o âmbito de atuação da saúde ocupacional.
+
+\n\nEm 1959, na Conferência Internacional do Trabalho, é aprovada a Recomendação nº 112 que trata dos Serviços de Medicina do Trabalho.
+
+\n\nEm 1960, o Sistema Toyota de Produção (produção enxuta), conhecido como Toyotismo, é consolidado como filosofia de produção. Caracterizado por funcionar de maneira oposta ao Fordismo, tinha como princípios o mínimo de estoque e a produção do bem realizada de acordo com a demanda no tempo. A flexibilização deste modelo ficou conhecida como Just in Time.
+
+\n\nEm 1966, através da Lei nº 5.161, é criada no Brasil a Fundação Centro Nacional de Segurança, Higiene e Medicina do Trabalho (FUNDACENTRO), com o objetivo de realizar estudos, análises e pesquisas relativas à higiene e à medicina ocupacional. Atualmente, é denominada de Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho (alterado no ano de 1978).
+
+\n\nNos Estados Unidos, em 1970, é criada a OSHA (Occupational Safety and Health Administration) como agência integrante do Departamento do Trabalho e o NIOSH (National Institute for Occupational Safety and Health), como parte do Departamento de Saúde e Serviços Públicos. Coube a OSHA a responsabilidade do estabelecimento de padrões e ao NIOSH, realizar o desenvolvimento de pesquisas e fornecer recomendações de padrões à OSHA.
+
+\n\nNo mesmo ano, a OSHA estabeleceu os primeiros padrões conhecidos como PEL (Permissible Exposure Limit) e o Brasil foi considerado o país onde ocorria o maior número de acidentes de trabalho no mundo.
+
+\n\nEm 1977, no Brasil, a Lei nº 6.514 altera o Capítulo V da CLT (Consolidação das Leis do Trabalho), agora relativo à segurança e medicina do trabalho.
+
+\n\nNo ano de 1978, no Brasil, através da Portaria nº 3.214 de 08/06/1978, aprovou as Normas Regulamentadoras (NR) do Capítulo V, Título II, da Consolidação das Leis do Trabalho, relativas à segurança e medicina do trabalho. Nesse mesmo ano, foram aprovadas outras 28 (vinte e oito) NR, as quais sofreram várias alterações ao longo dos anos.
+
+\n\nEm 1987, a Norma de Certificação ISO 9000 é publicada pela International Organization for Standardization, com a finalidade de estabelecer uma estrutura-modelo de gestão de qualidade baseado em normas técnicas, para empresas e organizações empresariais.
+
+\n\nEm 1988, é promulgada a Constituição Federal do Brasil e são criadas as Normas Regulamentadoras Rurais (NRR).
+
+\n\nEm 1988, a OIT publica a Convenção nº 167 – Segurança e Saúde na Construção. Essa convenção é aplicada a qualquer atividade econômica relacionada à construção, como: edificações, obras públicas, trabalhos em montagem, desmontagem e, até mesmo, operação e transporte nas obras.
+
+\n\nNo Brasil, em 1989, o Decreto Legislativo nº 51 aprova a Convenção nº 162 – Asbesto, aplicada a todas as atividades econômicas onde ocorra a exposição dos trabalhadores ao asbesto.
+
+\n\nEm 1995, a OIT publica a Convenção nº 176 – Segurança e Saúde na Mineração, aplicada às minas, incluindo os locais onde estão presentes as atividades de exploração e extração de minerais. Assim também o Brasil, através do Decreto nº 67, aprova a Convenção nº 170 – Segurança na Utilização de Produtos Químicos, da OIT publicada em 1990, com campo de aplicação a todas as indústrias, cujas atividades econômicas baseiam-se na utilização de produtos químicos.
+
+\n\nEm 1996, a Norma de Certificação ISO 14000 é publicada pela International Organization for Standardization, cujo objetivo é estabelecer um conjunto de diretrizes, dividida em comitês e subcomitês de criação, para sistemas de gestão ambiental direcionada a empresas e organizações.
+
+\n\nNesse mesmo ano, a British Standards, órgão britânico de elaboração de normas técnicas, publica a BS 8800 – Occupational Health and Safety Management Systems, norma que apresenta requisitos para implantação de um sistema de gestão de segurança e saúde no trabalho para empresas e organizações.
+
+\n\nEm 1997, na Portaria SSST nº 53, foi publicada a NR 29 que trata da Segurança e Saúde no Trabalho Portuário (alterada em 1998, 2002 e 2006). • Em 1999, o Governo brasileiro aprova por Decreto Legislativo a Convenção nº 182 – Piores Formas de Trabalho Infantil e a Ação Imediata para a sua Eliminação, da OIT.
+
+
+
+\n\n<b>g) Anos 2000 até os dias atuais</b>
+
+
+
+\n\nEm 2000, a ABNT (Associação Brasileira de Normas Técnicas) publica as normas de gestão de qualidade de processo (ISO 9000).
+
+\n\nNo ano de 2001, o Brasil aprovou pelo Decreto Legislativo nº 246, a Convenção nº 174 – Prevenção de Acidentes Industriais Maiores, da OIT, aplicada a instalações sujeitas a riscos de acidentes maiores. Com exceção de instalações nucleares, usinas que processam substâncias radioativas e instalações militares.
+
+\n\nEm 2002, através da Portaria SIT nº 34, foi publicada a NR 30 que trata da Segurança e Saúde no Trabalho Aquaviário (alterada em 2007 e 2008).
+
+\n\nEm 2005, através da Portaria MTE nº 86, foi publicada a NR 31 que trata da Segurança e Saúde no Trabalho na Agricultura, Pecuária Silvicultura, Exploração Florestal e Aquicultura (modificada em 2011).
+
+\n\nEm 2005, a Portaria GM nº 485 publica a NR 32 que trata da Segurança e Saúde no Trabalho em Serviços de Saúde (modificada em 2008 e 2011).
+
+\n\nEm 2006, o Ministério do Trabalho e Emprego publica, através da Portaria GM nº 202, a NR 33 – Segurança e Saúde nos Trabalhos em Espaços Confinados.
+
+\n\nEm 2010, o Ministério do Trabalho e Emprego publica, pela Portaria SIT nº 197, uma nova NR 12 – Segurança no Trabalho em Máquinas e Equipamentos, atualizados e com referências técnicas, princípios fundamentais e medidas de proteção para garantir a integridade física e a saúde dos trabalhadores.
+
+\n\nEm 2011, o Ministério do Trabalho publica, através da Portaria SIT nº 200, a NR 34 – Condições e Meio Ambiente de Trabalho na Indústria da Construção e Reparação Naval.
+
+\n\nEm 2012, o Ministério do Trabalho publica a Portaria nº 313, a NR 35 – Trabalho em Altura.
+
+\n\nEm 2012, o MTE publica uma nova NR 20.
+
+        \n\n\n Texto da Rede eTEC.
+
+
+    </string>
+
+
+    <string name="cipa">
+
+        A CIPA é uma comissão formada por empregados da empresa para trabalhar em busca de saúde e segurança do trabalho. O foco da comissão é trabalhar para evitar acidentes e doença do trabalho.
+        A Cipa tem representantes dos empregados e do empregador.
+
+        \n\nO objetivo da CIPA é observar e relatar as condições de risco no ambiente de trabalho e solicitar medidas para reduzir até eliminar os riscos existentes e/ou neutralizar os mesmos.
+        \n\nO mandato da CIPA tem duração de um ano, podendo ser reeleitor por um ano.
+        \n\nO número de membros da CIPA é definido através do dimensionamento previsto na NR 5. Esse dimensionamento leva em consideração a quantidade de empregados e o CNAE da empresa.
+        \n\nO treinamento da CIPA pode ser realizado pelo Técnico em Segurança do Trabalho, Engenheiro de Segurança do Trabalho, ou qualquer ou membro do SESMT, também por entidade ligada ao sindicato da categoria, ou por profissional que possua conhecimento sobre os temas ministrados. Temas esses, que estão listados na NR 5 item 5.32.
+
+        \n\n\n<b>Atribuiçõe da CIPA</b>
+
+        \n\nDiscutir e ajudar na investigação dos acidentes ocorridos, na empresa e de trajeto;
+        \n\nSugerir medidas de prevenção e neutralização dos riscos no ambiente de trabalho, que se julguem necessárias;
+        \n\nPromover a divulgação e zelar pela observância das normas de segurança do Ministério do Trabalho, como as normas de segurança da empresa;
+        \n\nPromover o interesse dos empregados pela preservação de acidentes e doenças ocupacionais, ser contagiador das questões de segurança;
+        \n\nRealizar inspeções de segurança na empresa, seja por causa de denúncia dos empregados, do empregador ou iniciativa própria. Relatar os riscos encontrados ao empregador e SESMT para que os mesmos tomem as medidas de correção necessárias;
+        \n\nPromover anualmente em conjunto com o SESMT (onde houver) a Semana Interna de Prevenção de Acidentes – SIPAT;
+        \n\nParticipar anualmente em conjunto com a empresa de campanhas de prevenção a AIDS;
+        \n\nParticipar das reuniões ordinárias (mensais), e extraordinárias (quando houver caso de riscos iminente – risco de morte);
+        \n\nRegistrar as reuniões mensais em livro próprio e entregar e entregar cópias aos membros da CIPA e empregador;
+        \n\nSolicitar cópia das CAT’s emitidas e discuti-las nas reuniões mensais;
+        \n\nSugerir cursos, melhorias e adequações no ambiente de trabalho sempre que necessário;
+        \n\nParticipar com o SESMT (onde Houver) das investigações de acidentes de trabalho, causas e fontes de risco. E acompanhar a implantação das medidas corretivas;
+        \n\nRequisitar ao empregador e analisar informações que tenham interferido na segurança e saúde dos trabalhadores;
+        \n\nRequerer do SESMT (onde houver) e do empregador a paralisação de máquina ou setor que considere haver risco grave e iminente (risco de morte) a saúde e vida do trabalhador;
+        \n\nColaborar na elaboração e implantação dos programas de saúde da empresa, PPRA, PCMSO e outros programas relacionados a saúde no trabalho;
+        \n\nElaborar Mapa de Riscos da empresa em parceria com o SESMT (onde houver), na ocasião entrevistar funcionários sobre riscos encontrados no ambiente de trabalho;
+
+
+
+        \n\n\n\n<b>Funções na CIPA</b>
+
+        \n\nPresidente: Representante do empregador e indicado por ele;
+        \n\nVice-Presidente: Representante dos empregados, é escolhido dentre os que foram eleitos por voto direto;
+        \n\nSecretário e Vice-Secretário: São escolhidos em comum acordo entre os representantes dos empregados (votados)  e do empregador (indicados);
+        \n\nMembros da CIPA: Representantes dos empregados (votados) e do empregador (indicados).
+
+    </string>
+
+    <string name="aso">
+
+        O ASO - Atestado de Saúde Ocupacional é um documento solicitado pela empresa onde o médico do trabalho atesta a condição de apto ou não apto ao colaborador para uma determinada função.
+        \n\nApenas médico do trabalho assina este documento. O mesmo é implementado em todas as categorias de exames do trabalho (admissional, demissional, etc.) e dialoga com exames complementares como: sumário de urina, audiometria, eletrocardiograma entre ouros a depender da função.
+        \n\nÉ válido salientar que os exames complementares são definidos pelo SESMT e especificado no PCMSO. A NR8 especifica as informações que o ASO deve conter:
+
+           \n\na) nome completo do trabalhador, o número de registro de sua identidade e sua função;
+
+            \n\nb) os riscos ocupacionais específicos existentes, ou a ausência deles, na atividade do empregado, conforme instruções técnicas expedidas pela Secretaria de Segurança e Saúde no Trabalho-SSST;
+
+            \n\nc) indicação dos procedimentos médicos a que foi submetido o trabalhador, incluindo os exames complementares e a data em que foram realizados;
+
+            \n\nd) o nome do médico coordenador, quando houver, com respectivo CRM;
+
+            \n\ne) definição de apto ou inapto para a função específica que o trabalhador vai exercer, exerce ou exerceu;
+
+            \n\nf) nome do médico encarregado do exame e endereço ou forma de contato;
+
+            \n\ng) data e assinatura do médico encarregado do exame e carimbo contendo seu número de inscrição no Conselho Regional de Medicina.
+
+
+    </string>
+
+    <string name="tutorial_penalidade">A NR 28 trata das fiscalizações e penalidades.
+        Em auditoria o agente fiscalizador pode autuar a empresa caso a mesma não cumpra as exigências e determinações expostas pelas normas regulamentadoras.
+        \n\nO cálculo das penalidades são feitos com base: número da infração, quantidade de funcionários e o valor da UFIR. Desde o anos 2000 o valor da UFIR é R$ 1, 0641.
+
+        ANTES DE CALCULAR, ANOTE OS NÚMEROS PARA OS CÁLCULOS!
+        \n\n<b>Para infrações:</b>
+
+        \n\nInfração 1 = 5
+        \nInfração 2 = 25
+        \nInfração 3 = 41
+        \nInfração 4 = 68
+
+        \n\n<b>Para quantidade de funcionários:</b>
+
+        \n\nAté 10 func. = 1
+        \nAté 25 func. = 2
+        \nAté 50 func. = 3
+        \nAté 100 func. = 4
+        \nAté 250 func. = 5
+        \nAté 500 func. = 6
+        \nAté 1000 func. = 7
+        \nAcima de 10000 func. = 8
+
+        \n\n<b>EXEMPLO:</b>
+
+        \n\nA empresa teve infração 4 e tem 65 funcionários. Você vai usar para cáculo: 68 referente a infração do tipo quatro e 4 referente aos 65 funcinários.
+
+    </string>
+
+
+    <string name="mapaderisco">O Mapa de Risco é uma maneira eficiente de proteger seus funcionários, mostrando claramente os riscos que o ambiente de trabalho pode apresentar.
+        \n\nPara conseguir essa visualização, é preciso estudar a empresa de forma efetiva para, assim, chegar a um diagnóstico sobre os perigos de cada de setor.
+
+        \n\nO Mapa de Risco foi criado na década de 60, pelos italianos, e chegou em terras brasileiras apenas no fim dos anos 70.
+        \n\nCom o aumento da produção industrial e do índice de acidentes, logo em seguida, o método começou a ser utilizado nas fábricas e ambientes de industriais e, em 1992, ele se tornou obrigatório.
+        \n\nDesde então, o Mapa de Risco é exigido em todos os países em que a CIPA (Comissão Interna de Prevenção de Acidentes) está presente e sua ausência pode acarretar em multas de alto de valor.
+
+        \n\n<b>Como fazer um Mapa de Risco?</b>
+
+        \n\nCada empresa precisa de um Mapa de Risco adequado para seu segmento, mas alguns itens são comuns a todas, como esses:
+
+        \n\nREUNIR INFORMAÇÕES SUFICIENTES PARA O ESTABELECIMENTO DE UM DIAGNÓSTICO DA SITUAÇÃO DE SEGURANÇA E SAÚDE NO TRABALHO DO ESTABELECIMENTO.
+        \n\nPOSSIBILITAR A TROCA E DIVULGAÇÃO DE INFORMAÇÕES ENTRE OS TRABALHADORES E ESTIMULAR SUA PARTICIPAÇÃO NAS ATIVIDADES DE PREVENÇÃO.
+
+        \n\nCONHECER O PROCESSO DE TRABALHO NO LOCAL ANALISADO:
+
+        \n\nOs trabalhadores: número, sexo, idade, treinamentos profissionais e de segurança e saúde.
+        \nJornada de trabalho.
+        \nOs instrumentos e materiais de trabalho.
+        \nAs atividades exercidas.
+        \nO ambiente.
+
+        \n\n\nIDENTIFICAR OS RISCOS EXISTENTES NO LOCAL ANALISADO.
+        \n\nIDENTIFICAR AS MEDIDAS PREVENTIVAS EXISTENTES E SUA EFICÁCIA, ENTRE ELAS:
+        \n\nMedidas de proteção coletiva, de organização do trabalho, de proteção individual e de higiene e conforto.
+
+        \n\n\nDESCOBRIR AS QUEIXAS MAIS COMUNS ENTRE OS FUNCIONÁRIOS EXPOSTOS AOS MESMOS RISCOS, DOENÇAS PROFISSIONAIS JÁ DIAGNOSTICADAS E CAUSAS MAIS FREQUENTES DE AUSÊNCIA NO TRABALHO.
+        \n\nTER CONHECIMENTO DOS LEVANTAMENTOS AMBIENTAIS JÁ REALIZADOS NO LOCAL.
+        \n\nO NÚMERO DE TRABALHADORES EXPOSTOS AO RISCO.
+        \n\nESPECIFICAR OS AGENTES, POR EXEMPLO: QUÍMICOS, ERGONÔMICOS, BIOLÓGICOS OU DE ACIDENTES.
+        \n\nAPÓS APROVAÇÃO DA CIPA, O MAPA DE RISCO DEVE SER EXPOSTO CLARAMENTE EM TODOS OS SETORES ANALISADOS, DE MANEIRA QUE OS FUNCIONÁRIOS POSSAM FACILMENTE VER.
+
+        \n\n\nPara facilitar a visualização do mapa, os riscos são divididos em cinco grupos, representados por diferentes cores:
+
+        \n\n<b>GRUPO 1 - RISCOS FÍSICOS (Verde)</b>:
+        \n\nVibração, Radiação ionizante e não ionizante, frio, calor, pressões anormais e umidade.
+
+        \n\n<b>GRUPO 2 - RISCOS QUÍMICOS (Vermelho)</b>:
+        \n\nPoeiras, fumos, neblinas, gases, vapores, substancias compostas ou produtos químicos em geral.
+
+        \n\n<b>GRUPO 3 - RISCOS BIOLÓGICOS (Marron)</b>:
+        \n\nVírus, bactérias, fungos, parasitas e bacilos.
+
+        \n\n<b>GRUPO 4 - RISCOS ERGONÔMICOS (Amarelo)</b>:
+        \n\nEsforço físico intenso, levantamento e transporte manual de peso, controle rígido de produtividade, imposição de ritmos excessivos, trabalho em turno noturno, jornadas de trabalho prolongadas, monotonia e repetitividade e outras situações provocadoras de estresses psíquico e físico.
+
+        \n\n<b>GRUPO 5 - RISCOS DE ACIDENTES (Azul)</b>:
+        \n\nArranjo físico inadequado, máquinas e equipamentos sem proteção, iluminação inadequada, probabilidade de incêndios ou explosões, animais peçonhentos, armazenamento inadequado e outras situações que possam acabar em acidentes.
+
+        \n\n\n<b>Com os risco qualificados, o próximo passo é fazer a quantificação dos mesmos</b>.
+        \n\nA quantificação dos riscos são feitos com equipamentos específicos para as classes de risco.
+
+        \n\nNa grande maioria as vezes os mapas de riscos são elaborados com base na plata baixa da empresa, toda via a grande maioria dos colaborades não compreendem.
+        \n\nPara uma melhor compreensão pode ser usada uma foto do local de trabalho.
+        \n\n\n<b>O Mapa de Risco reduz significantemente as doenças e os acidentes porque conscientiza todos os envolvidos dos perigos apresentados.</b>
+
+    </string>
+
+    <string name="sinalizacao"><b>Conceito</b>
+        \n\nDentre os métodos de proteção e asseguração da vida, da saúde e da profissão dos trabalhadores que estão inseridos no ramo da Segurança do Trabalho, se encontra a sinalização de segurança.
+        Seu objetivo é alertar trabalhadores e visitantes no local sobre os riscos existentes ali, equipamentos protetores e outras informações imprescindíveis para segurança no local.\n\nA sinalização sever para alertar. Com letra clara, ilustrações óbvias de fácil entendimento, o que ajuda em casos emergenciais rapidamente. Nas ilustrações são usados símbolos universais que oferecem entendimento padronizado e não gera duplo sentido ou qualquer outra confusão.
+        A utilização das cores também tem seu significado, assim como formas e siglas conhecidas no local de trabalho e no mundo todo.\n\n<b>Estes sinais podem ser classificados como:</b>\n\n<b>Sinais de Obrigação</b> – indicam comportamentos ou ações específicas e a obrigação de utilizar equipamento de proteção individual (EPI).\n\n<b>Sinais de Perigo</b> – indicam situações de atenção, precaução, verificação ou
+        atividades perigosas.\n\n<b>Sinais de Aviso</b> – indicam atitudes proibidas ou perigosas para o local.\n\n<b>Sinais de Emergência</b> - indicam direções de fuga, saídas de emergência ou localização de equipamento de segurança.\n\n<b>Utiliza-se normalmente sinalização permanente para:</b>\n\nProibições\nAvisos\nObrigações\nMeios de salvamento ou de socorro\nEquipamento de combate a incêndios\nAssinalar recipientes e tubulações\nRiscos de choque ou queda\nVias de circulação
+
+        \n\n<b>De acordo com a NBR 7195 as cores de segurança são:</b>
+        \n\n<b>Vermelho</b> - para aparelhos de proteção e combate a incêndio.
+        \n\n<b>Laranja</b> - para alertas, partes móveis e perigosas de máquinas e equipamentos.
+        \n\n<b>Amarelo</b> - atenção, acidentes de pisos, avisos e letreiros de advertência.
+        \n\n<b>Verde Folha</b> - segurança, avisos de segurança e de socorros de urgência.
+        \n\n<b>Azul Mar</b> - cuidado, equipament fora de serviço, sinais de advertência.
+        \n\n<b>Preto</b> - coletores de resíduos.
+        \n\n<b>Branco</b> - áreas de armazenagem e em torno de equipamentos de emergência.
+
+        \n\n\n\n<b>➤ Sinalização de obrigação</b>
+        \n\nOs sinais incluídos nesta categoria visam qual o determinado comportamento que devemos tomar, pois é uma obrigação.
+        \n\nOs sinais de obrigação devem possuir as seguintes características:
+        \n\n• Forma redonda.
+        \n• Pictograma branco sobre fundo azul (a cor azul deve cobrir pelo menos 50% da superfície da placa).
+
+        \n\n\<b>➤ Sinalização de perigo</b>
+        \n\nOs sinais inseridos nesta categoria visam advertir para uma situação, objeto ou ação de originar dano ou lesão pessoal e/ou nas instalações.
+        \n\nOs sinais de perigo devem possuir as seguintes características:
+        \n\n• Forma triangular.
+        \n• Pictograma negro sobre fundo amarelo, margem negra (a cor amarela deve cobrir pelo menos 50% da superfície da placa).
+
+        \n\n\<b>➤ Sinalização de proibição</b>
+        \n\nOs sinais inseridos nesta categoria visam impedir que um determinado comportamento de um individuo, de colocar em risco a sua segurança.
+        \n\nOs sinais de proibição devem possuir as seguintes características:
+        \n\n• Forma redonda.
+        \n• Pictograma negro sobre fundo branco, margem e faixa (diagonal descendente da esquerda para a direita, ao longo do pictograma, a 45º em relação à horizontal) vermelhas.
+
+        \n\n\<b>➤ Sinalização de salvamento ou emergência</b>
+        \n\nOs sinais incluídos nesta categoria visam indicar, em caso de perigo, as saídas da emergência, o caminho para o posto de socorro ou local onde existem dispositivos de salvação.
+        \n\nOs sinais de Salvamento ou Emergência devem possuir as seguintes características:
+        \n\n• Forma retangular ou quadrada.
+        \n• Pictograma branco sobre fundo verde (a cor verde deve cobrir pelo menos 50% da superfície da placa).
+
+        \n\n\<b>➤ Sinalização de Material de Combate a Incêndio</b>
+        \n\nOs sinais inseridos nesta categoria visam indicar, em caso de incêndio, a localização dos equipamentos de combate a incêndio à disposição do utilizador/individuo.
+        \n\nOs sinais em relação ao material de combate a incêndio devem possuir as seguintes características:
+        \n\n• Forma rectangular ou quadrada.
+        \n• Pictograma branco sobre fundo vermelho (a cor vermelha deve cobrir pelo menos 50% da superfície da placa).
+
+
+    </string>
+
+
+    <string-array name="menu_treinamentos">
+
+        <item>E.P.I. e E.P.C.</item>
+        <item>Condições Sanitárias</item>
+        <item>Materiais Químicos</item>
+        <item>Riscos da Função</item>
+        <item>Foco na atividade</item>
+        <item>Insalubridade e Peliculosidade</item>
+        <item>Sinalização de Segurança</item>
+        <item>Controle de Perdas</item>
+        <item>Absenteísmo e Assiduidade</item>
+        <item>Acidentes de Trabalho</item>
+        <item>Exames ocupacionais e ASO</item>
+        <item>LER e DORT</item>
+
+
+    </string-array>
+
+
+    <string name="tre1">O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.\n\nNo treinamento de Uso de EPI e EPC aborde
+        os seguintes subtemas:\n\n• Necessidades do uso do EPI e do EPC.\n• Diferenças entre o EPI e o EPC.\n• Uso correto destes equipamentos.\n• Manutenção e Trocas.\n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 6 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre2">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.\n\nNo treinamento de Condições Sanitárias aborde
+        os seguintes subtemas:\n\n• Dimensionamento.\n• Uso correto.\n• Manuntenção.\n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 24 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre3">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.\n\nNo treinamento de Materiais Químicos aborde
+        os seguintes subtemas:\n\n• Profissional Capacitado para a manipulação.\n• Transporte, Movimentação, Armazenagem e Manuseio.\n• Contaminação.\n• FISPQ.\n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 11 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+
+    </string>
+    <string name="tre4">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.\n\nNo treinamento de Riscos da Função aborde
+        os seguintes subtemas:\n\n• Tipos de riscos.\n• Complicações.\n• Formas de controle.\n• Prevenção.\n• Ordem de Serviço.\n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 1 e 9 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre5">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.\n\nNo treinamento de Foco na atividade aborde
+        os seguintes subtemas:\n\n• Tipos da atividade pertencentes a sua empresa.\n• Ritmo do trabalho.\n• Uso do EPI.\n• Brincadeiras no trabalho.\n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 1 e 9 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre6">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
+        \n\nNo treinamento de Insalubridade e Peliculosidade aborde os seguintes subtemas:
+        \n\n• Fundamentação sobre Insalubridade e Peliculosidade.
+        \n• Percentual de Insalubridade e Peliculosidade.
+        \n• Quais locais de trabalho se aplica Insalubridade e Peliculosidade.
+        \n• Mostre que os percetuais não são favoravéis quando se olha para a saúde.\n\nUtilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 15 e 16 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre7">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
+        \n\nNo treinamento de Sinalizaçao de Segurança aborde os seguintes subtemas:
+        \n\n• A importância da sinalizaçao.
+        \n• Tipos de Sinalização.
+        \n• Cores na Sinalização.
+        \n• Acidentes frequentes por não respeitar à sinalização.
+
+        \n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 26 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre8">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
+        \n\nNo treinamento de Controle de Perdas aborde os seguintes subtemas:
+        \n\n• Prazos e Validades.
+        \n• Sistema de reposição de produtos.
+        \n• Produtos vencidos.
+        \n• Formas de armazenamento e transporte.
+        \n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 11 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre9">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
+        \n\nNo treinamento de Absenteísmo e Assiduidade aborde os seguintes subtemas:
+        \n\n• Jornada de trabalho.
+        \n• Pausas, intervalos, horário de almoço.
+        \n• Produtividade.
+        \n• Falta justificada, não justificada, folga lei, penalidades.
+        \n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos.
+
+    </string>
+    <string name="tre10">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
+        \n\nNo treinamento de Acidente de Trabalho aborde os seguintes subtemas:
+        \n\n• Acidente de trabalho.
+        \n• Acidente de trajeto.
+        \n• Doença do trabalho.
+        \n• Auxílio doença versus Auxílio Acidentário.
+        \n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos.
+
+    </string>
+    <string name="tre11">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
+        \n\nNo treinamento de Exames ocupacionais e ASO aborde os seguintes subtemas:
+        \n\n• Sua aplicação.
+        \n• Os tipos de exames e suas características.
+        \n• Os exames para as funções.
+        \n• ASO.
+        \n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 7 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+    <string name="tre12">
+
+        O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
+        mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
+        \n\nNo treinamento de LER e DORT aborde os seguintes subtemas:
+        \n\n• A ergonomia no ambiete de trabalho.
+        \n• Movimentos repetitivos.
+        \n• Doenças do trabalho.
+        \n• LER/DORT.
+        \n\n\nOBS:
+        na formulação deste treinamento leve em consideração as condições de sua empresa, os problemas mais frequentes. Utilize imagens, colaboradores querem mais
+        imagens e menos textos. Tome a NR 17 para fundamentar sua apresentação e NBRs pertinentes ao tema.
+
+    </string>
+
+    <string-array name="lista_primeirossocorros">
+
+        <item>➤ INFORMAÇÕES GERAIS </item>
+        <item>Esmagamentos</item>
+        <item>Amputação</item>
+        <item>Cortes e escoriações</item>
+        <item>Engasgamentos</item>
+        <item>Desmaios e convulções</item>
+        <item>Animais peçonhentos</item>
+        <item>Descarga elétrica</item>
+
+    </string-array>
+
+    <string name="soco1">São nos primeiros socorros que podemos salvar a vida de qualquer pessoa. A NR 7 diz que todo estabelecimento deverá estar equipado com material necessário à prestação dos primeiros socorros, considerando-se as características da atividade desenvolvida. O material deve ser guardado em local adequado e aos cuidados de pessoa treinada para esse fim.
+
+        \n\nContudo, a pessoa que vai prestar os primeiros socorros deve ser devidamente treinada para tal. No treinamento os responsáveis pelo kit precisam aprender a manusear os equipamentos, fazer curativos e prestar atendimento.
+        \n\n<b>DEVE CONTER NO KIT DE PRIMEIROS SOCORROS?</b>
+
+        \n\n• Caixa para acondicionamento do kit.
+        \n\n• Pinça: Para poder retirar algum objeto encravado na pele (somente se for indispensável). O ideal é esperar atendimento médico para retirar qualquer item que penetre no organismo.
+        \n\n• Tesoura: Para o caso de ter soltar uma pessoa presa pela roupa em algum equipamento, cortar roupas para fazer imobilizações, cortar pedaços de roupas contaminadas, cortar tiras para imobilizações.
+        \n\n• Luvas cirúrgicas: Para evitar contato com secreções corpóreas da vítima.
+        \n\n• Máscara facial: Para proteção do socorrista contra contato com fluidos corpóreos da vítima que de alguma forma possam se locomovem pelo do ar.
+        \n\n• Óculos de proteção: Para proteção do socorrista contra contato com fluidos corpóreos da vítima lançadas através do ar.
+        \n\n• Compressa quente: Dilata os vasos sanguíneos e aumentam a circulação, podem ser usadas para diminuir inchaços e facilitam a penetração de remédios por via cutânea.
+        \n\n• Compressa fria: Usadas para reduzir a dor, inchaços, edemas, câimbras, reduz fadiga muscular.
+        \n\n• Gaze: Servem para fazer compressas, para fazer limpeza no ferimento. Pode também ser colocado diretamente sobre o ferimento fazendo parte do curativo.
+        \n\n• Esparadrapo: Adesivo flexível que serve para fixar o curativo. Quando fazemos curativos em articulações saber usar a o esparadrapo faz toda diferença para determinar se o curativo será fixado com sucesso ou não.
+        \n\n• Atadura de crepe: Serve para enfaixar a área lesionada e também para imobilizar.
+        \n\n• Soro fisiológico ou solução iodada: Serve para lavar a área lesionada.
+        \n\n• Cotonete: Nesse caso seria usado para limpeza de ferimentos onde a água não tenha conseguido penetrar com eficiência.
+        \n\n• Antisséptico: Serve para inibir a procriação de micro-organismos que poderiam se proliferar na superfície da pele.
+        \n\n• Saco plástico vedante: Para correto acondicionamento do lixo gerado no atendimento.
+
+
+    </string>
+    <string name="soco2">
+
+
+        Pode resultar em ferimentos abertos ou fechados. O dano tecidual é extenso (músculos, tendões, ossos). Os esmagamentos de tórax e abdome causam graves distúrbios circulatórios e respiratórios, sendo muitas vezes incompatíveis com a vida.
+        \n\n\No caso de extremidade presa a maquinaria industrial, desligar a energia da máquina, e em seguida fazer a lenta reversão manual das engrenagens e retirada do membro. Caso não seja possível liberar a extremidade a máquina deverá ser desmontada e transportada juntamente com a vítima ao hospital.
+
+
+
+    </string>
+    <string name="soco3">É a separação de um membro ou estrutura do restante do corpo. Pode ser causada por diversos tipos de acidentes. Entre os mais comuns estão os com objetos cortantes (serra elétrica), os acidentes de trânsito (principalmente de moto), a violência, o choque e o esmagamento.
+        \n\nNesse tipo de emergência, a rapidez na busca pelo atendimento é um fator determinante para conter qualquer tipo de infecção e também para o sucesso da reimplantação do membro.
+
+        \n\nSe for preciso limpar o local da amputação, faça isso com um pano bem limpo e não use nenhuma outra substância.
+        Faça a compressão do local com força, com um pano limpo para conter o sangue.
+        Não se esqueça de recolher a parte amputada. Se a distância até o hospital não for longa, enrole-a com um pano limpo e coloque-a dentro de uma sacola plástica limpa.
+        Se o socorro for demorar mais de 6 horas, enrole a parte amputada em um pano limpo, coloque-a em um pacote plástico bem fechado e, sem seguida, ponha o pacote dentro de outra sacola com gelo.
+
+        \n\nNão coloque a parte amputada diretamente no gelo, é necessário apenas refrigerá-la.
+        As amputações podem ocasionar hemorragia e infecção, e levar ao estado de choque e à morte. Por essa razão é preciso procurar o socorro rápido para evitar a falta de vascularização no local, o que pode ocasionar gangrena.
+        O sucesso do reimplante vai depender principalmente do tipo de corte e do tempo decorrido do acidente até o recebimento do socorro apropriado.
+
+
+
+    </string>
+    <string name="soco4">Os cortes são ferimentos que acontecem com frequência em casa. Existem diversas formas de se machucar, seja com uma faca na cozinha, escorregando no chão molhado, pisando em um caco de vidro ou esbarrando em objetos pontudos. É importante saber cuidar do ferimento para que ele não infeccione.
+
+        \n\n<b>Primeiros socorros em cortes superficiais</b>
+
+        \n\nA primeira coisa a ser feita é ter certeza de que a ferida não é grave.
+        \n\nEm seguida deve-se lavar as mãos com água e sabão.
+        \n\nLave a ferida com muito cuidado com água e sabão. Certifique-se de que o local ficou bem limpo e livre de partículas que poderiam causar infecção.
+        \n\nAplique um anti-séptico e seque o local em volta da ferida.
+        \n\nDe acordo com a lesão, coloque uma gaze ou pano limpo para cobrir o ferimento. Não use algodão, pois as fibras do material podem colar na ferida, provocando novamente sangramento ao retirar o curativo.
+        \n\nMantenha o corte limpo e seco para facilitar a cicatrização.
+
+        \n\n<b>Primeiros socorros em cortes profundos</b>
+
+        \n\nÉ preciso manter a calma e controlar a hemorragia imediatamente.
+        \n\nPressione uma gaze ou pano limpo sobre o corte. Se ele não for tão profundo, o sangramento deve parar em alguns minutos. Em seguida lave a ferida com água e sabão.
+        \n\nCaso a água não seja suficiente para remover a sujidade do corte, use uma gaze para retirar as partículas que ficaram coladas dentro do machucado.
+        \n\nSe houver um pedaço de cristal ou outro objeto cravado no corte não tente retirá-lo, pode provocar uma hemorragia maior.
+        \n\nEm casos de sangramento intenso, uma boa dica é elevar o membro para reduzir o fluxo de sangue.
+        \n\nCom a compressa de gaze contendo o sangramento, o médico deverá ser consultado imediatamente para avaliar o corte e realizar uma sutura.
+        \n\nApós a sutura, os curativos devem ser realizados para que a cicatrização seja eficaz.
+
+        \n\n<b>Escoriações</b>: Lesões superficiais da pele ou mucosas, que apresentam sangramento leve e costumam ser extremamente dolorosas. Não representam risco ao paciente quando isoladas.
+        \n\n<b>Lesões corto-contusas</b>: Lesões produzidas por objetos cortantes. Podem causar sangramento de variados graus e danos a tendões, músculos, nervos e vasos sanguíneos.
+        \n\n<b>Lacerações</b>: Grandes lesões corto-contusas, geralmente com lesões de músculos, tendões, nervos e sangramento que pode ser moderado a intenso. Grandes traumas como ex: acidentes automobilísticos.
+        \n\nO socorrista deve controlar o sangramento por compressão direta e aplicação de curativo e bandagens. Imobilize extremidades com ferimentos profundos.
+        \n\nEm pacientes com PA normal efetue a limpeza das lesões de forma rápida. No trauma grave este procedimento é omitido para reduzir o tempo de chegada ao hospital.
+
+
+
+    </string>
+    <string name="soco5">Denominamos engasgo quando ocorre o bloqueio da traqueia ( órgão responsável em enviar e retirar o ar dos pulmões) por um objeto estranho, por vômito ou até mesmo sangue.
+
+        \n\nFisiologicamente, a traqueia é frequentemente protegida pela epiglote; esta nada mais serve como uma porta que abre e fecha, conforme a necessidade de ar. Assim, quando ocorre a passagem de ar, a epiglote permanece aberta, porém quando ocorre a alimentação, a epiglote é fechada, impedindo que qualquer alimento ou corpo estranho, alcance a traqueia e, posteriormente, os pulmões.Dessa forma, quando a epiglote falha em sua função, os alimentos, líquidos ou qualquer tipo de objeto estranho, ultrapassa a epiglote, alcançando a traqueia, ocasionando o bloqueio do ar. \n\nPor isso que, em alguns casos, o engasgo pode levar à morte por asfixia e, às vezes, pode até deixar a pessoa parcialmente ou totalmente inconsciente. É necessário saber que dependendo da gravidade do engasgo, este é uma situação de emergência médica, sendo necessário chamar o serviço de atendimento especializado em emergência o mais rápido possível; pode ser uma questão de vida ou morte!
+
+        \n\nEm caso de engasgo por corpos estranhos como: moedas, pequenos brinquedos, pedra ou qualquer outro objeto pequeno, a manobra que se realiza é a conhecida mundialmente como Manobra de Heimlich. Esta manobra tem como objetivo realizar uma pressão positiva na região do epigastro (“boca do estômago”), a qual fica localizada dois dedos abaixo do fim do esterno (osso longo que une as costelas), colaborando com a desobstrução e consequente passagem de ar.
+
+        \n\n<b>Como realizar a Manobra de Heimlich nos adultos e crianças maiores que um ano?</b>
+
+        \n\nAbraçar a pessoa engasgada pelo abdômen;\nNo caso de adultos, posicionar-se atrás da pessoa ainda consciente;\nNo caso de crianças, posicionar-se atrás, mas de joelhos.
+        \n\nAtrás da vítima coloque uma das mãos sobre a região da “boca do estômago” e com a outra mão, comprima a primeira mão, ao mesmo tempo em que empurra a região dentro e para cima, parecendo que está levantando a pessoa.
+        \n\nContinue o movimento até que a pessoa elimine o objeto que está causando a obstrução.
+        \n\nEm caso de pessoa inconsciente, não realize a manobra e contate imediatamente o serviço de emergência.
+
+        \n\n<b>Como realizar a manobra em crianças menores de um ano e bebê</b>
+
+        \n\n<b>Bebê consciente</b>
+
+        \n\nColoque o bebê de bruços em cima de seu braço e faça 5 compressões entre as escápulas ( no meio das costas).
+        \n\nDepois, vire o bebê de barriga para cima e faça 5 compressões sobre o esterno (osso do meio).
+        \n\nSe conseguir visualizar o objeto, retire o mesmo.
+        \n\nCaso não seja possível a visualização do objeto, nem a retirada, continue realizando as compressões até a chegada do serviço de emergência.
+
+        \n\n<b>Bebê inconsciente</b>
+
+        \n\nDeite o bebê de barriga para cima sem seu braço e abra boca e nariz.
+        \n\nVerifique se o bebê está respirando.
+        \n\nSe o bebê não estiver respirando, realize duas respirações que boca-boca, bloqueando a boca e o nariz.
+        \n\nObserve se há expansão do peito; em caso negativo, realize novamente a respiração.
+        \n\nContate imediatamente o serviço de atendimento de emergência.
+        \n\nEm todas as situações de primeiros socorros é necessário manter a calma, para poder agir com segurança e inteligência.
+
+
+    </string>
+    <string name="soco6">Desmaios são quedas causadas por um estado de semiconsciência ou inconsciência repentina, quando o cérebro deixa de receber a quantidade necessária de oxigênio ou açúcar para manter suas funções plenamente ativas.
+
+        \n\nO desmaio pode ser ocasionado por diversas razões como calor, longos períodos sem ingerir alimentos, cansaço, emoções muito fortes, etc.
+        \n\nIdentifica-se a pessoa com palidez, pulsação baixa, suor frio, fraqueza, entre outros; assemelha-se em sintomas com o estado de choque.
+
+        \n\nSe a pessoa estiver prestes a desmaiar; sentá-la com a cabeça entre os joelhos e as penas formando um ângulo, ou deitá-la com as pernas levantadas.
+        \n\nMolhar a testa da pessoa com água fria;\nAfrouxar as roupas da vítima.
+        \n\nSe a pessoa já se encontrar desmaiada, deve-se deitá-la na PLS (Posição Lateral de Segurança), de preferência com a cabeça ligeiramente mais baixa que as pernas.
+        \n\nAfrouxar as roupas da vítima e mantê-la de forma confortável e aquecida. Assim que a vítima recobrar seus sentidos, recomenda-se que se dê algo açucarado para tomar, para recuperar os níveis de açúcares perdidos os quais podem ter sido a causa do desmaio (vale lembrar que o consumo excessivo de açúcar em situações extraordinárias como a de um desmaio, não acarreta em prejuízo para o organismo).
+        \n\nCaso a pessoa não recupere os sentidos, deve-se administrar uma espécie de pasta feita com água e açúcar, com pouca água e mais açúcar. Esta “pasta” deve ser colocada debaixo da lígua da pessoa mesmo inconsciente, e aguardar o socorro médico.
+        \n\nNão se deve dar nada para tomar à vitima que ainda estiver inconsciente, pois ela pode se afogar ou engasgar com os líquidos, devido ao estado de inconsciência.
+
+        \n\nAs convulsões são episódios onde o indivíduo perde a consciência com desmaio e inicia um período de tremores por todo o corpo com contração e relaxamento dos músculos.
+        \n\nElas acontecem devido a uma má comunicação dos neurônios no cérebro e podem estar relacionadas com a epilepsia.\nNormalmente depois da convulsão o paciente não se lembra do que aconteceu e pode se encontrar desorientado e por isso é importante ajudar a vítima a se orientar e a perceber o que aconteceu.\n\n
+
+        \n\n<b>Os primeiros socorros para convulsões são</b>:
+
+        \n\nDar espaço para a vítima.
+        \n\nAfastar objetos que possam machucar a vítima, como mesas e cadeiras.
+        \n\nColocar a vítima de lado ou, se não for possível, colocar a cabeça dela de lado, sem forçar.
+        \n\nDesapertar as roupas apertadas da vítima, abrindo os botões da camisa e abrindo o cinto.
+        \n\nRetirar próteses dentárias e outros objetos que possam dificultar a respiração.
+        \n\nColocar uma proteção entre os dentes, como um pedaço de pano enrolado, para evitar o ranger dos dentes e a mordedura da língua.
+        \n\nFicar junto da vítima até que ela recupere a consciência.
+        \n\nEm nenhum caso se deve colocar os dedos dentro da boca da vítima para impedir a queda da língua, pois com a contração muscular o indivíduo pode involuntariamente morder a mão do indivíduo.
+
+    </string>
+    <string name="soco7">Não fazer sucção do veneno.
+        \n\nNão espremer o local da picada.
+        \n\nNão dar nada alcoólico, querosene ou fumo para o acidentado.
+        \n\nNão fazer torniquete, impedindo a circulação do sangue: isso pode causar gangrena ou necrose local.
+        \n\nNão cortar ou queimar o local da ferida.
+        \n\nNão fazer aplicação de folhas, pó de café ou terra sobre a ferida, sob o risco de infecção.
+        \n\nManter a pessoa em repouso, evitando o seu movimento para que não favoreça a absorção do veneno.
+        \n\nManter a região picada no mesmo nível do coração ou, se possível, abaixo dele.
+        \n\nLocalizar a marca da picada e limpar o local com água e sabão ou soro fisiológico.
+        \n\nCobrir o local com um pano limpo;\nRemover anéis, pulseiras e outros objetos que possam prender a circulação sanguínea, em caso de inchaço do membro afetado.
+        \n\nLevar a pessoa imediatamente para o pronto-socorro mais próximo ou ligar para o serviço de emergência.
+        \n\nTentar identificar que tipo de animal atacou a vítima, observando cor, tamanho e características dele.
+        \n\nSe possível, levar o animal causador do acidente para identificação.
+        \n\nNo caso de acidentes causados por escorpiões, aranha-armadeira e viúva-negra, recomenda-se fazer compressas mornas no local e analgésicos para alívio da dor.
+
+    </string>
+    <string name="soco8">O choque elétrico é a passagem de uma corrente pelo copo tornando-se um condutor elétrico.
+
+        \n\nEssa condução de corrente varia de acordo com a intensidade de volts com que a pessoa é submetida no choque elétrico e pode gerar desde um pequeno susto, até uma fibrilação cardíaca, ou mesmo a morte.
+        \n\nO choque elétrico pode ser causado por fenômenos naturais como um raio, por exemplo, ou acidentes como o contato direto com fiações elétricas domésticas ou públicas, áreas energizadas em decorrência de alguma fonte de energia mal isoladas, ou até mesmo o contato direto com uma pessoa que está recebendo uma descarga elétrica.
+        \n\nNo caso de estar presenciando o momento do ocorrido, procurar imediatamente afastar a vítima com a fonte da corrente elétrica, desligando o interruptor próximo.
+
+        \n\nCaso seja um fio, afaste da pessoa com um instrumento de material não condutor que esteja seco (madeira, plástico, pano grosso, borracha, com exceção de materiais de metal), procure locomover a vítima também com algum desses instrumentos, uma vez que ela estará energizada e poderá assim, transmitir o choque a você.
+        \n\nAguarde uns segundos e inicie os procedimentos de socorro, já tendo acionado um serviço especializado antes. Observe os sinais e se a vítima estiver inconsciente, sem pulso ou respiração, aplique as técnicas de ressuscitação com massagem cardíaca e respiração artificial.
+        \n\nDeve-se desapertar as roupas e ficar atento aos sinais vitais, ainda que a vítima tenha recuperado a pulsação e a respiração. Em casos de choques, essas variações de quadro são comuns, e pode ser necessária nova intervenção de reanimação.
+        \n\nSe a vítima apresentar inconsciência; porém, estiver respirando e com pulsação, deve-se colocá-la na PLS (Posição Lateral de Segurança) descrita anteriormente e aguardar a chegada do socorro especializado.
+
+    </string>
+
+
+    <string name="dds1">Os andaimes são muito utilizados pela construção civil. Eles servem para o uso de trabalho em altura como exemplo: construção, demolição, reforma, pintura, limpeza e manutenção.
+
+        \n\nFale sobre a importação da fixação correta do mesmo para poder ser utilizado de forma correta. Se a empresa já possuir algum histórico de acidente com andaime o use como exemplo.
+
+        \n\nFale também sobre a importância do uso dos equipamentos para trabalho em altura e da necessidade da atenção redobrada que deve ter com trabalho em altura.
+
+        \n\nPor fim reforce a paralisação das atividades em altura em caso de presença de chuva ou situações da natureza que traga risco ao colaborador.
+
+    </string>
+    <string name="dds2">O capacete de segurança salva muitas vidas. Usado bastante pela construção, todavia não é de uso exclusivo da construção civil.
+
+        \n\nO capacete de segurança é útil para toda e qualquer atividade em que os colaboradores estejam expostos à projeção de material que venham de cima para baixo.
+
+        \n\nOs capacetes de segurança são projetados para suportar grandes cargas.
+
+        \n\nAssim como os demais EPI’s, o capacete de segurança sempre deve ser usado pelo colaborador, assim como é pessoal e intransferível, o mesmo deve ser substituído sempre que mostra-se fora dos padrões de fabrica.
+
+        \n\nÉ bom ressaltar que sabe-se que o capacete assim como outros epi’s incomodam, mas, tem que ser usado para preservar a saúde do colaborador.
+
+    </string>
+    <string name="dds3">Choque elétrico que todos os colaboradores independente do tipo de local de trabalho sempre está exposto.
+        \n\nPraticamente em todos os setores de uma empresa/estabelecimento usa energia elétrica.
+
+        \n\nDeve ser levado em consideração todo aterramento correto da parte elétrica, assim como também deve ser ressaltado a importância da atenção dos colaboradores quando foram trabalhar com equipamentos energizados, ambientes com presença de água.
+
+        \n\nEm caso de qualquer choque elétrico deve ser tomada providências de forma imediata, por conta que na maioria das vezes os acidentes com choque elétrico são fatais.
+
+    </string>
+    <string name="dds4">O ASO é o atestado de saúde ocupacional, onde o médico do trabalho atesta se o colaborador está apto ou não para ser admito, demito ou mudar de função.
+        \n\nO ASO é um atestado que depende de exames complementares. Exames complementares são exames de sangue, urina, audiometria, espirometria, entre outros.
+        \n\nEsses exames são estabelecidos no PCMSO a depender das atividades que os colabores iram desenvolver na empresa.
+        \n\nDeve ser levado em consideração, o quão importantes são os exames complementares assim como o ASO, pois eles que determinaram o rumo que o colaborador vai tomar dentro da empresa.
+
+    </string>
+    <string name="dds5">A CIPA é uma comissão de grande importância e poder dentro de uma empresa. A mesma tem poder e voz, podendo atuar como um representante dos colaboradores.
+
+        \n\nA CIPA visa o bem estar e prevenção de riscos para com a saúde do colaborador. Deve ser considerado a importância, poder e benefícios da mesma dentro da empresa.
+
+        \n\nLembrar que o propósito dos participantes da CIPA dever ser a prevenção de riscos e acidentes de trabalho. A CIPA dá estabilidade de dois anos, mas o foco não deve ser esse.
+
+        \n\nOs membros da CIPA dever ser pessoas atuantes dentro da empresa. Por ter colaborados que estão todos os dias em diversas partes da empresa, os riscos são detectados de forma mais rápida.
+
+    </string>
+    <string name="dds6">A ordem de serviço é um documentos exigido pela NR 9 (PPRA). Na ordem de serviço deve ser identificado o colaborador, o local de trabalho do mesmo e sua funcão.
+        \n\nA partir de sua função que é determinado os riscos. Na ordem de serviço deve está de forma explicita os riscos da função do colaborador e o colaborador deve ter ciência desses riscos.
+        \n\nA ordem de serviço deve ser elaborada para todos os colaborados, lembrando que os riscos são diferenciados a depender da função, exposição e grau de intensidade.
+        \n\nA ordem de serviço dever alocada junto a ficha de cada colaborador da empresa.
+
+
+    </string>
+    <string name="dds7">O embargo e interdição é tema de NR. Essa NR vem para definir limites de segurança para a existência de uma obra ou uso de um equipamento.
+        \n\nO que é embargado? Obras! O que é interditado? Máquinas e equipamentos.
+        \n\nDeve ser evidenciado que qualquer alteração em máquinas, equipamentos ou edificação dever sinalizado de forma imediata para a segurança de todos.
+
+    </string>
+    <string name="dds8">Vapor é a fase gasosa de uma substância, que em condições normais de temperatura e pressão é sólida ou líquida.
+
+        \n\nExemplos : Vapores de água, vapores de gasolina, vapores de naftalina, etc.
+
+        \n\nA principal diferença entre gases e vapores está na concentração de vapores chamados de saturação, a partir do qual, qualquer aumento na concentração transformará o vapor em líquido ou sólido.
+        \n\nNo ser humano sua atuação sobre o organismo pode ser dividida em irritantes anestésicos e asfixiantes.
+        \n\nAs boas condições de ordem, limpeza e asseio geral, ocupam uma posição chave num sistema de proteção ocupacional. Os “vapores” se comportam de maneira diferente, tanto no que diz respeito do período de permanência no ar, quanto às possibilidades de ingresso no organismo em relação aos “gases”.
+
+        \n\nA via preferencial de contaminação por gases é a via respiratória e por isto sua ação no organismo é muito rápida.
+        \n\nDesta maneira, os vapores como os gases podem ser classificados ou divididos em irritantes, anestésicos e aspirantes.
+        \n\nEsta classificação baseia-se no efeito mais importante, mais significativo sobre o organismo. Assim sendo as recomendações para o uso de EPI’s para gases vale para vapores.
+        \n\nOs resíduos gasosos deverão ser eliminados dos locais de trabalho através de métodos, equipamentos ou medidas adequadas, sendo proibido o lançamento ou a liberação de quaisquer contaminantes gasosos se ultrapassarem os limites de tolerância estabelecidos pela Norma Regulamentadora.
+
+    </string>
+    <string name="dds9">Conforme as normas estabelecidas pela Associação Brasileira de Normas Técnicas (ABNT), resíduos sólidos são materiais em estado sólido ou semissólido, que resultam de atividade industrial, doméstica, hospitalar, comercial, agrícola, de serviços e de varrição.
+        \n\nResíduos perigosos são lodos provenientes de sistemas de tratamento de água, bem como determinados líquidos cujas características tornem inviável seu lançamento na rede pública de esgotos, rios e lagos ou exijam tratamento através de soluções técnicas inviáveis e/ou de custo muito elevado.
+
+        \n\nOs resíduos são classificados conforme sua periculosidade, que, em função de suas propriedades físicas, químicas ou infectocontagiosas, podem apresentar riscos à saúde pública ou ao meio ambiente.
+
+        \n\nAs classes de Resíduos são:
+        \n\n<b>Perigosos/ Não-Inertes e Inertes</b>
+
+        \n\nOs resíduos perigosos são aqueles com características de inflamabilidade, Corrosividade, reatividade, toxidade ou patogenicidade.
+        \n\nOs resíduos Não-Inertes são aqueles com características de combustão, biodegradabilidade ou solubilidade em água.
+        \n\nOs resíduos Inertes são aqueles que não são decompostos prontamente, rochas, tijolos, vidros, certos plásticos e borrachas.
+
+
+    </string>
+    <string name="dds10">Você sabe lavar as suas mãos?
+
+        \n\n<b>Água e sabão ou álcool?</b>
+
+        \n\nA higienização das mãos é geralmente realizada pela lavação com água e sabão ou pela fricção com álcool a 70%. Ambos são excelentes, atendendo perfeitamente o objetivo de eliminar os agentes patogênicos.
+        \n\nA lavação com água e sabão é o processo que tem por finalidade primordial remover sujeira e a flora transitória (aquela adquirida no contato com pessoas, objetos e superfícies), sendo preferida caso as mãos estejam com sujeira visível (poeira, talco, terra, etc).
+        \n\nNo caso da eliminação exclusiva de bactérias, as soluções alcoólicas são mais potentes, mas só podem ser utilizadas caso as mãos estejam limpas, sem qualquer sujidade visível.
+        \n\nDada à importância da higienização das mãos, é indispensável orientar desde a infância sobre os benefícios desse processo. Devemos encorajar as crianças a higienizar as mãos de forma correta, assegurando que essa prática torne-se hábito ao longo da vida.\n\n
+
+        \n\n<b>Quando devo higienizar as mãos?</b>
+
+        \n\nLavar as mãos deve fazer parte da rotina de todos nós, especialmente:
+
+        \n\nAntes de comer ou manusear alimentos.
+        \n\nApós ter utilizado as instalações sanitárias.
+        \n\nApós assoar o nariz, tossir ou espirrar.
+        \n\nAntes de efetuar qualquer ação que inclua o contato com mucosas corporais (por exemplo, colocar ou retirar lentes de contato).
+        \n\nApós tocar animais ou seus dejetos.
+        \n\nApós manusear resíduos (por exemplo, lixo doméstico).
+        \n\nApós usar transportes públicos.
+        \n\nAntes e após tocar doentes ou feridas (cortes, arranhões, queimaduras etc).
+        \n\nAntes e após uma visita a um doente internado (hospital ou outra instituição).
+        \n\nLembre-se: lavar as mãos é um detalhe que faz toda a diferença, não apenas na sua saúde, mas também na saúde de seus entes queridos e de toda a comunidade.
+
+    </string>
+    <string name="dds11">As baterias comuns de automóveis parecem inofensivas. Isso pode apresentar o maior perigo, porque muitas pessoas que trabalham com elas ou próxima delas parecem desatentas em relação a seus riscos em potencial.
+    O resultado é o crescente número de acidentes no trabalho relacionados com o mau uso ou abuso das baterias.
+
+    \n\nMuitos dos acidentes podem ser evitados se respeitarmos os principais riscos das baterias:
+
+    \n\nO elemento eletrolítico nas células das baterias é o ácido diluído, que pode queimar a pele e os olhos. Mesmo a borra que se forma devido o derrame de ácido é prejudicial à pele e os olhos.
+    \n\nQuando uma bateria está carregada, o hidrogênio pode se acumular no espaço vazio próximo da tampa de cada célula e, a menos que o gás possa escapar, uma centelha pode inflamar o gás aprisionado e explodir.
+    \n\nO controle desses riscos é bastante simples. Quando você estiver trabalhando próximo a baterias, use as ferramentas metálicas com muito cuidado. Uma centelha provocada pelo aterramento acidental da ferramenta, pode inflamar o hidrogênio da bateria.
+
+    \n\nPor este mesmo motivo nunca fume ou acenda fósforos próximos às baterias. Ao abastecer a bateria com ácido, não encha com excesso ou derrame.
+    \n\nSe houver o derrame, limpe-o imediatamente, tomando cuidado para proteger os olhos e a pele.
+    \n\nO pó formado pelo acúmulo de massa seca, pode facilmente penetrar nos seus olhos. Portanto proteja-os com óculos de segurança.
+    \n\nO abuso da bateria pode eventualmente causar vazamentos de ácidos e vazamentos de hidrogênio que encurtam sua vida e que possam ser perigosos para qualquer um que esteja trabalhando próximo.
+    \n\nO recarregamento da bateria provoca o acúmulo de hidrogênio, que é altamente inflamável. Assim faça o recarregamento ao ar livre ou num lugar bem ventilado, com as tampas removidas.
+    \n\nPrimeiro ligue os conectores tipo jacaré do carregador nos pólos e posteriormente ligue o carregador na tomada de alimentação. Qualquer fonte de centelhas durante a recarga pode causar uma explosão.
+    \n\nFique atento especialmente em relação ao centelhamento quando se tentar jumpear uma bateria descarregada. Estas pontes (jumpers) podem provocar um arco voltaico e centelhas que podem inflamar o hidrogênio.
+
+    </string>
+    <string name="dds12">O material geralmente utilizado para a confecção de uma máscara descartável é uma combinação de duas ou mais camadas de manta de polipropileno.
+        \n\nA camada filtrante pode ser feita de manta de fibra de polipropileno à qual, posteriormente, deu-se uma carga eletrostática para melhorar a eficiência da filtragem.
+        \n\nApós cortarem-se as peças faciais, estas recebem uma solda por ultra-som para dar-lhes forma. Em seguida, recebem uma costura ou fixação dos tirantes para então serem finalizadas e embaladas.
+        \n\nAs máscaras descartáveis podem ou não conter válvula de exalação.
+
+        \n\nA penetração máxima através do filtro da máscara descartável deve atender aos requisitos da tabela abaixo. No teste, o spray de uma solução aquosa de cloreto de sódio a 1% passa pelo objeto de teste, após o qual mede-se a penetração.
+        \n\nA partícula oleosa tem seu teste feito com óleo de parafina:
+
+        \n\nPFF1 – Geralmente indicada para proteção contra partículas não tóxicas tais como as minerais, pó de madeira, etc.
+        \n\nPFF2 – Geralmente indicada para proteção contra partículas tóxicas químicas finas.
+        \n\nPFF3 – Geralmente indicada para proteção contra partículas tóxicas químicas finíssimas.
+
+    </string>
+    <string name="dds13">A rotina de ouvir os sons do ambiente, como o barulho do tráfego no deslocamento diário para o trabalho, possivelmente passa despercebida por você e tantos outros, mas pode fazer falta para muitos.
+        A perda auditiva é realidade para uma parcela de brasileiros. Boa parte dos acometidos por algum grau de deficiência auditiva desenvolveu o problema devido à exposição ocupacional ao ruído.
+
+        \n\nO único meio de evitar danos ao ouvido do trabalhador, em atividades nas quais a eliminação total do ruído não é viável, é o controle do agente na fonte.
+        \n\nQuando não for possível prover EPCs, a saída é buscar alternativas capazes de minimizar os efeitos das emissões até o limite permitido.
+        \n\nO uso de protetor auditivo se apresenta como um dos métodos mais comuns e práticos para reduzir o nível de exposição ao ruído de origem ocupacional, orienta Samir Gerges, doutor em Ruído e Vibrações, professor aposentado e ex-coordenador do Laboratório de Vibroacústica Industrial, Veicular e Aeronáutica da Universidade Federal de Santa Catarina. O protetor auditivo deve ser fornecido pela empresa ao trabalhador sempre que ele desempenhar atividades em local cujo ruído extrapole 85 dB(A) ou 87 dB(A), dependendo da duração da sua jornada de trabalho.
+        \n\nO nível de ruído permitido em decibéis varia conforme a carga horária.
+
+        \n\nNo Brasil, para uma jornada de oito horas, a exposição ao ruído contínuo ou intermitente deve ser de, no máximo, 85 dB(A) e, para seis horas, o limite é de 87 dB(A).
+        \n\nTais delimitações estão previstas no Anexo 1 da NR 15. “A partir do momento em que o colaborador está exposto acima do limite aceitável, é necessário realizar um controle do ruído no ambiente de trabalho”, pontua.
+        \n\nVários são os tipos de protetores auditivos à venda atualmente, assim como há diversos fornecedores no mercado.
+        \n\nSegundo Gerges, há em torno de mil marcas comerciais oferecendo soluções em proteção auditiva em nível internacional.
+        \n\n“A oferta é grande, por isso é preciso ser exigente na hora da escolha”, ensina o especialista com mais de 40 anos de experiência na área de ruído e vibrações.
+
+    </string>
+
+    <string-array name="lista_temasdedds">
+
+        <item>Trabalho em andaimes</item>
+        <item>A importância do capacete de segurança</item>
+        <item>Choque elétrico</item>
+        <item>ASO</item>
+        <item>CIPA</item>
+        <item>Ordem de serviço</item>
+        <item>O que embarga e o que interdita?</item>
+        <item>Vapores e Gases</item>
+        <item>Resíduo industrial</item>
+        <item>Lavagem de mãos</item>
+        <item>Risco com baterias</item>
+        <item>PFF1, PFF2 ou PFF3?</item>
+        <item>Protetor auricular: plug ou concha?</item>
+
+
+    </string-array>
+
+
+</resources>

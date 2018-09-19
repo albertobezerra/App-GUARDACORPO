@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="equipebezerradasilva.guardacorpo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- SPLASH -->
+
+        <activity
+            android:name=".splash"
+            android:theme="@style/AppCompat.Tela_Cheia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- ESTACIONARIO -->
+
+        <activity
+            android:name=".estacionario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- NORMAS -->
+        <activity
+            android:name=".normas"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr3"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr4"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr5"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr6"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr7"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr8"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr9"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr10"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr11_estacionario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr11"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr11_anexo1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr12_estacionario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo3"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo4"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo5"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo6"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo7"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo8"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo9"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo10"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo11"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr12_anexo12"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr13"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr14"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr15_estacionario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr15"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo3"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo5"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo6"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo7"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo8"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo9"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo10"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo11"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo12"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo13"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo13a"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity android:name=".nr15_anexo14"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr16"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr17_estacionario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr17"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr17_anexo1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr17_anexo2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr18"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr19"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr20"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr21"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr22"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr23"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr24"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr25"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr26"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr27"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr28"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr29"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr30"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr31"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr32"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr33"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr34"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr35"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr36"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- SOCORROS -->
+
+        <activity
+            android:name=".primeiros_socorros"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros01"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros02"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros03"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros04"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros05"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros06"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros07"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".primeiros_socorros08"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- SINALIZACAO -->
+
+        <activity
+            android:name=".sinalizacao"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".sinalizacao_exemplo"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- MAPA -->
+
+        <activity
+            android:name=".mapa"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".mapa_exemplo"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- PENALIDADES -->
+
+        <activity
+            android:name=".penalidades"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".penalidades_calculo"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- TREINAMENTOS -->
+
+        <activity
+            android:name=".treinamentos"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos3"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos4"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos5"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos6"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos7"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos8"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos9"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos10"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos11"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".treinamentos12"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- DDS -->
+        <activity
+            android:name=".dds_estacionario"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds3"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds4"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds5"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds6"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds7"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds8"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds9"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds10"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds11"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds12"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".dds13"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+        <!-- OUTRAS TELAS -->
+        <activity
+            android:name=".ca"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".clt"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".aso"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".cid"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".cipa"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".historia"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".datas"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".tecnico"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+
+    </application>
+
+</manifest>
