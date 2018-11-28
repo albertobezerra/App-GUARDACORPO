@@ -52,7 +52,7 @@ public class treinamentos extends AppCompatActivity implements Runnable {
                 if (position == 2) {
                     Intent myIntent = new Intent(view.getContext(), treinamentos3.class);
                     startActivityForResult(myIntent, 2);
-                    displayInterstitial();
+
                 }
 
                 if (position == 3) {
@@ -64,7 +64,7 @@ public class treinamentos extends AppCompatActivity implements Runnable {
                 if (position == 4) {
                     Intent myIntent = new Intent(view.getContext(), treinamentos5.class);
                     startActivityForResult(myIntent, 4);
-                    displayInterstitial();
+
                 }
 
                 if (position == 5) {
@@ -82,7 +82,7 @@ public class treinamentos extends AppCompatActivity implements Runnable {
                 if (position == 7) {
                     Intent myIntent = new Intent(view.getContext(), treinamentos8.class);
                     startActivityForResult(myIntent, 7);
-                    displayInterstitial();
+
                 }
 
                 if (position == 8) {
@@ -100,7 +100,7 @@ public class treinamentos extends AppCompatActivity implements Runnable {
                 if (position == 10) {
                     Intent myIntent = new Intent(view.getContext(), treinamentos11.class);
                     startActivityForResult(myIntent, 10);
-                    displayInterstitial();
+
                 }
 
                 if (position == 11) {

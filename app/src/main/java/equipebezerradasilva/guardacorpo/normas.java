@@ -40,7 +40,6 @@ public class normas extends AppCompatActivity implements Runnable{
                     Intent myIntent = new Intent(view.getContext(), nr1.class);
                     startActivityForResult(myIntent, 0);
 
-
                 }
 
                 if (position == 1) {

@@ -45,13 +45,13 @@ public class primeiros_socorros extends AppCompatActivity implements Runnable{
                 if (position == 1) {
                     Intent myIntent = new Intent(view.getContext(), primeiros_socorros02.class);
                     startActivityForResult(myIntent, 1);
-                    displayInterstitial();
+
                 }
 
                 if (position == 2) {
                     Intent myIntent = new Intent(view.getContext(), primeiros_socorros03.class);
                     startActivityForResult(myIntent, 2);
-                    displayInterstitial();
+
                 }
 
                 if (position == 3) {
@@ -63,7 +63,7 @@ public class primeiros_socorros extends AppCompatActivity implements Runnable{
                 if (position == 4) {
                     Intent myIntent = new Intent(view.getContext(), primeiros_socorros05.class);
                     startActivityForResult(myIntent, 4);
-                    displayInterstitial();
+
                 }
 
                 if (position == 5) {

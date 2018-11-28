@@ -40,14 +40,14 @@ public class dds_estacionario extends AppCompatActivity implements Runnable {
                         if (position == 0) {
                             Intent myIntent = new Intent(view.getContext(), dds1.class);
                             startActivityForResult(myIntent, 0);
-                            displayInterstitial();
+
 
                         }
 
                         if (position == 1) {
                             Intent myIntent = new Intent(view.getContext(), dds2.class);
                             startActivityForResult(myIntent, 1);
-                            displayInterstitial();
+
                         }
 
                         if (position == 2) {
@@ -65,7 +65,7 @@ public class dds_estacionario extends AppCompatActivity implements Runnable {
                         if (position == 4) {
                             Intent myIntent = new Intent(view.getContext(), dds5.class);
                             startActivityForResult(myIntent, 4);
-                            displayInterstitial();
+
                         }
 
                         if (position == 5) {
@@ -77,7 +77,7 @@ public class dds_estacionario extends AppCompatActivity implements Runnable {
                         if (position == 6) {
                             Intent myIntent = new Intent(view.getContext(), dds7.class);
                             startActivityForResult(myIntent, 6);
-                            displayInterstitial();
+
                         }
 
                         if (position == 7) {
@@ -101,7 +101,7 @@ public class dds_estacionario extends AppCompatActivity implements Runnable {
                         if (position == 10) {
                             Intent myIntent = new Intent(view.getContext(), dds11.class);
                             startActivityForResult(myIntent, 10);
-                            displayInterstitial();
+
                         }
 
                         if (position == 11) {
