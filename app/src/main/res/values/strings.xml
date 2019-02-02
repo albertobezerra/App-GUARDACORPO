@@ -961,5 +961,31 @@
 
     </string-array>
 
+    <string name="nbrs">NBR 9050 - Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.
+
+        \n\nNBR 18801 - Sistemas de Gestão de Segurança e Saúde no Trabalho.
+        \n\nNBR 6493 - Emprego de Cores para identificação de tubulações.
+        \n\nNBR 7195 - Cores para Sinalização.
+        \n\nNBR 13434 - Sinalização de Seguraça conta Incêndio e Pânico - Simbolos e suas formasm dimensões e cores.
+        \n\nNBR 13966 - Ergonomia - Móveis para escritórios - Mesas.
+
+    </string>
+
+    <string-array name="lista_nho">
+
+        <item>NHO 1 - Avaliação de exposição ocupacional ao ruído</item>
+        <item>NHO 2 - Análise qualitativa da fração volátil (Vapores orgânicos)</item>
+        <item>NHO 3 - Análise gravimétrica de aerodispersóides sólidos coletados sobre filtros de membrana</item>
+        <item>NHO 4 - Método de coleta e análise de fibras em locais de trabalho</item>
+        <item>NHO 5 - Avaliação da exposição ocupacional aos raios X nos serviços de radiologia</item>
+        <item>NHO 6 - Avaliação da exposição ocupacional ao calor</item>
+        <item>NHO 7 - Calibragem de bombas de amostragem individual pelo método da bolha de sabão</item>
+        <item>NHO 8 - Coleta de material particulado sólido suspenso no ar de ambientes de trabalho</item>
+        <item>NHO 9 - Avaliação da exposição ocupacional a vibrações de corpo inteiro</item>
+        <item>NHO 10 - Avaliação da exposição ocupacional a vibrações em mãos e braços</item>
+        <item>NHO 11 - Avaliação dos níveis de iluminamento em ambientes internos de trabalho</item>
+
+    </string-array>
+
 
 </resources>
