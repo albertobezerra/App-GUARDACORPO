@@ -249,6 +249,12 @@ public class normas extends AppCompatActivity implements Runnable{
                     startActivityForResult(myIntent, 35);
 
                 }
+
+                if (position == 36) {
+                    Intent myIntent = new Intent(view.getContext(), nr37.class);
+                    startActivityForResult(myIntent, 36);
+
+                }
             }
         });
     }
