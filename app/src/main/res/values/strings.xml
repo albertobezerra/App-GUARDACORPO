@@ -454,7 +454,7 @@
         <item>Materiais Químicos</item>
         <item>Riscos da Função</item>
         <item>Foco na atividade</item>
-        <item>Insalubridade e Peliculosidade</item>
+        <item>Insalubridade e Periculosidade</item>
         <item>Sinalização de Segurança</item>
         <item>Controle de Perdas</item>
         <item>Absenteísmo e Assiduidade</item>
@@ -514,10 +514,10 @@
 
         O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
         mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.
-        \n\nNo treinamento de Insalubridade e Peliculosidade aborde os seguintes subtemas:
-        \n\n• Fundamentação sobre Insalubridade e Peliculosidade.
-        \n• Percentual de Insalubridade e Peliculosidade.
-        \n• Quais locais de trabalho se aplica Insalubridade e Peliculosidade.
+        \n\nNo treinamento de Insalubridade e Periculosidade aborde os seguintes subtemas:
+        \n\n• Fundamentação sobre Insalubridade e Periculosidade.
+        \n• Percentual de Insalubridade e Periculosidade.
+        \n• Quais locais de trabalho se aplica Insalubridade e Periculosidade.
         \n• Mostre que os percetuais não são favoravéis quando se olha para a saúde.\n\nUtilize imagens, colaboradores querem mais
         imagens e menos textos. Tome a NR 15 e 16 para fundamentar sua apresentação e NBRs pertinentes ao tema.
 
@@ -1024,6 +1024,11 @@
         \nAvental
 
 
+    </string>
+
+    <string name="ordemdeservico">A ordem de serviço é o documento que quando assinado por colaborador atesta que o mesmo tem ciência dos riscos da sua atividade, assim como as obrigações do empregado e empregador.
+        \n\nA NR 1 menciona no item 1.7 letra "B" que o empregador deve elaborar Ordens de Serviço dando ciência aos funcionários a respeito dos riscos no ambiente.  A partir do momento da assinatura do documento, o funcionário não tem mais como alegar que desconhece dos riscos de sua atividade e obrigações sua e de seu empregador.
+        \n\nNo item 1.8 letra "A": Cabe ao funcionário cumprir as normas de Segurança do Trabalho e as Ordens de Serviços emitidas pelo empregador. O descumprimento das normas sujeita o colaborador a medida disciplinar.
     </string>
 
 

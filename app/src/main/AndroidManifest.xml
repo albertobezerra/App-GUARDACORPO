@@ -13,7 +13,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".nr37"
+        <activity
+            android:name=".ordemdeservico_exemplo"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".ordemdeservico"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".cnpj"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".cnae"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr37"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".epi"

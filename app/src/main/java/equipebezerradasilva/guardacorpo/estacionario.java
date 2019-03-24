@@ -42,7 +42,8 @@ public class estacionario extends AppCompatActivity implements Runnable {
                 R.drawable.menu_principal_normas, R.drawable.menu_principal_ca, R.drawable.menu_principal_clt, R.drawable.menu_principal_treinamentos, R.drawable.menu_principal_primeirossocorros,
                 R.drawable.menu_principal_dds, R.drawable.menu_principal_sinalizacao, R.drawable.menu_principal_mapa, R.drawable.menu_principal_datas, R.drawable.menu_principal_tecnico,
                 R.drawable.menu_principal_penalidades, R.drawable.menu_principal_aso, R.drawable.menu_principal_cid, R.drawable.menu_principal_cipa, R.drawable.menu_principal_historia,
-                R.drawable.menu_principal_nbr, R.drawable.menu_principal_nho, R.drawable.menu_principal_epi,
+                R.drawable.menu_principal_nbr, R.drawable.menu_principal_nho, R.drawable.menu_principal_epi, R.drawable.menu_principal_cnae, R.drawable.menu_principal_cnpj,
+                R.drawable.menu_principal_ordemdeservico,
 
         };
 
@@ -161,6 +162,24 @@ public class estacionario extends AppCompatActivity implements Runnable {
                 if (position == 17) {
                     Intent myIntent = new Intent(view.getContext(), epi.class);
                     startActivityForResult(myIntent, 17);
+                    displayInterstitial();
+                }
+
+                if (position == 18) {
+                    Intent myIntent = new Intent(view.getContext(), cnae.class);
+                    startActivityForResult(myIntent, 18);
+                    displayInterstitial();
+                }
+
+                if (position == 19) {
+                    Intent myIntent = new Intent(view.getContext(), cnpj.class);
+                    startActivityForResult(myIntent, 19);
+                    displayInterstitial();
+                }
+
+                if (position == 20) {
+                    Intent myIntent = new Intent(view.getContext(), ordemdeservico.class);
+                    startActivityForResult(myIntent, 20);
                     displayInterstitial();
                 }
 
