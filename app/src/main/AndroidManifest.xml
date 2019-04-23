@@ -13,6 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".incendio"
+            android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".ppp"
             android:theme="@style/AppCompat.Tela_Cheia" />
