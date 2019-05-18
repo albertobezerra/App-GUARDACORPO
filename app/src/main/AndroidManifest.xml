@@ -13,7 +13,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".acidentesdetrabalho"
+        <activity
+            android:name=".riscos"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".acidentesdetrabalho"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".incendio"

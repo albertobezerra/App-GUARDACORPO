@@ -1190,4 +1190,16 @@
 
     </string>
 
+    <string name="riscos">Os agentes ambientais ou riscos ambientais são elementos ou substancias presentes em diversos ambientes, que acima dos limites de tolerância podem ocasionar danos à saúde das pessoas.
+        \n\nOs agentes ambientais ou riscos ambientais são bastante debatidos e estudados na área de segurança e saúde do trabalho, principalmente na elaboração e implementação dos programas, como: Programa de Controle Médico de Saúde Ocupacional – PCMSO, Programa de Prevenção de Riscos Ambientais – PPRA, Programa de Gerenciamento de Riscos – PGR, entre outros.
+        \n\n\n<b>Os riscos são:</b>
+        \n\n<b>Riscos Físicos</b> - São diversas formas de energia a que possam estar expostos os trabalhadores, tais como: ruído, vibrações, pressões anormais, temperaturas extremas, radiações ionizantes, radiações não ionizantes, bem como o infra-som e o ultra-som.
+        \n\n<b>Riscos Químicos</b> - São as substâncias, compostos ou produtos que possam penetrar no organismo pela via respiratória, nas formas de poeiras, fumos, névoas, neblinas, gases ou vapores, ou que, pela natureza da atividade de exposição, possam ter contato ou ser absorvidos pelo organismo através da pele ou por ingestão;
+        \n\n<b>Riscos Biológicos</b> - São riscos oferecidos por diversos tipos de micro-organismos que possam infectar o indivíduo por vias respiratórias, contato com a pele ou ingestão. São as bactérias, fungos, bacilos, parasitas, protozoários, vírus, entre outros;
+        \n\n<b>Riscos de Acidentes</b> - Arranjo físico inadequado, Máquinas e equipamentos sem proteção, Ferramentas inadequadas ou defeituosas, Iluminação inadequada, Eletricidade, Probabilidade de incêndio ou explosão, Armazenamento inadequado, Animais peçonhentos, Outras situações de risco que poderão contribuir para a ocorrência de acidentes;
+        \n\n<b>Riscos Ergonômicos</b> - Esforço físico intenso, Levantamento e transporte manual de peso, Exigência de postura inadequada, Controle rígido de produtividade, Imposição de ritmos excessivos, Trabalho em turno e noturno, Jornadas de trabalho prolongadas, Monotonia e repetitividade, Outras situações causadoras de stress físico e/ou psíquico.
+
+        \n\n\nNo PPRA esses riscos ambientais ganham cores: riscos físicos (verde), químicos (vermelho), biológico (marron), acidente (azul) e ergonômico (amarelo)
+    </string>
+
 </resources>
