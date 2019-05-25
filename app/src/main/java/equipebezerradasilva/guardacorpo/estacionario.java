@@ -44,7 +44,7 @@ public class estacionario extends AppCompatActivity implements Runnable {
                 R.drawable.menu_principal_penalidades, R.drawable.menu_principal_aso, R.drawable.menu_principal_cid, R.drawable.menu_principal_cipa, R.drawable.menu_principal_historia,
                 R.drawable.menu_principal_nbr, R.drawable.menu_principal_nho, R.drawable.menu_principal_epi, R.drawable.menu_principal_cnae, R.drawable.menu_principal_cnpj,
                 R.drawable.menu_principal_ordemdeservico, R.drawable.menu_principal_ppp, R.drawable.menu_principal_incendio, R.drawable.menu_principal_acidentesdetrabalho,
-                R.drawable.menu_principal_riscos,
+                R.drawable.menu_principal_riscos, R.drawable.menu_principal_esocial,
 
         };
 
@@ -205,6 +205,12 @@ public class estacionario extends AppCompatActivity implements Runnable {
                 if (position == 24) {
                     Intent myIntent = new Intent(view.getContext(), riscos.class);
                     startActivityForResult(myIntent, 24);
+                    displayInterstitial();
+                }
+
+                if (position == 25) {
+                    Intent myIntent = new Intent(view.getContext(), esocial.class);
+                    startActivityForResult(myIntent, 25);
                     displayInterstitial();
                 }
 

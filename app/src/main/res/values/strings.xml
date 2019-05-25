@@ -1202,4 +1202,62 @@
         \n\n\nNo PPRA esses riscos ambientais ganham cores: riscos físicos (verde), químicos (vermelho), biológico (marron), acidente (azul) e ergonômico (amarelo)
     </string>
 
+    <string name="esocial">A partir de julho de 2019, empresas com faturamento anual acima de R$ 78 milhões começarão a enviar as informações de saúde e segurança para o eSocial. 
+            \n\nApesar da prorrogação do prazo inicial, as companhias não podem se descuidar da preparação, já que o período de testes está prestes a começar. 
+            \n\nE como o sistema é cheio de pequenos detalhes que devem ser observados, vamos explicar como funcionam as tabelas eSocial aplicadas à área de SST.
+            \n\nO eSocial é dividido em eventos, divididos em quatro categorias: iniciais ou de tabela, periódicos ou não. Eles nada mais são do que um conjunto de dados que precisam ser enviados sobre determinado assunto – que já eram obrigatórios de acordo com a legislação, mas que agora serão compilados em um único lugar.
+            \n\nPara o correto preenchimento de alguns desses eventos, foram criadas as tabelas. Elas reúnem os códigos que podem ser inseridos nos campos solicitados, contendo todas as possíveis alternativas a serem utilizadas.
+            \n\nUm exemplo é a Tabela 01: Categoria de Trabalhadores. Se você estiver enviando os dados de um empregado geral – inclusive público da administração direta ou indireta contratado pela CLT –, o código a ser inserido é 101.
+            \n\nEsse é apenas um caso, mas isso ocorre em todos os campos. Por isso, é preciso sempre consultar a tabela antes de realizar o envio das informações.
+            \n\n\nAlgumas dessas tabelas são específicas para os eventos de saúde e segurança do trabalho, então vamos falar sobre cada uma delas:
+                
+              \n\n<b>Tabela 23</b>: Fatores de Risco do Meio Ambiente de Trabalho
+                \n\Os riscos físicos, biológicos, químicos, ergonômicos, periculosos e mecânicos devem ser descritos no evento S-2240 (Condições Ambientais do Trabalho), com base nos códigos presentes na Tabela 23.
+                \n\nÉ preciso atenção extra aos riscos ergonômicos e de acidentes, que passam a ser obrigatórios após a implantação do Perfil Profissiográfico Previdenciário (PPP) no formato digital.
+                \n\nOutro ponto de alerta é a descrição dos fatores químicos, que deve ser feita levando em consideração a composição química, não o nome dos produtos.
+                
+               \n\n<b>Tabela 27</b>: Procedimentos Diagnósticos
+               \n\nDetalha todos os exames complementares que devem ser realizados pelo empregado, seja durante a admissão, demissão ou eventos periódicos. Antes, isso era feito utilizando o código TUSS.
+               \n\nMas como ele possui muitos códigos e nem todos se aplicam ao contexto empresarial, as informações foram simplificadas na Tabela 27 – que possui 1.400 códigos e se restringe apenas à área ocupacional.
+                \n\nEsses novos códigos serão utilizados para preenchimento do evento S-2220 (Monitoramento da Saúde do Trabalhador).
+                
+                \n\n<b>Tabela 28</b>: Atividades Perigosas, Insalubres e/ou especiais
+                \n\nContém uma lista de todas as possíveis atividades perigosas, insalubres ou especiais a que um empregado pode ser exposto nos mais diversos ambientes de trabalho.
+                \n\nAuxilia no preenchimento do evento S-2240 (Condições Ambientais do Trabalho) e tem como principal objetivo fornecer insumos ao Governo Federal para concessão dos benefícios envolvendo cada um desses casos.
+                
+                \n\nVale lembrar que mesmo na ausência da atividade na tabela, o trabalhador ainda tem direito aos adicionais ou à aposentadoria especial.
+                \n\nDe acordo com a legislação, a simples exposição a fatores de risco acima do limite de tolerância pode gerar tais benefícios, independente de qual seja a atividade desenvolvida pela pessoa.
+                
+                \n\n<b>Tabela 29</b>: Treinamentos, Capacitações e Exercícios Simulados
+                \n\n\As informações sobre determinadas atividades obrigatórias já deveriam constar no Livro de Registro de Empregado, então isso apenas será migrado para o eSocial.
+                \n\nNo sistema, esses dados serão preenchidos no evento S-2245, a partir dos códigos obtidos na Tabela 29.
+                
+                \n\nO principal ponto de atenção neste caso é sobre a obrigatoriedade ou não de descrever o treinamento no eSocial.
+                \n\nO sistema não exige a inserção de todos, embora sua empresa continue sendo obrigada a realizá-los, de acordo com a legislação trabalhista atual.
+                \n\nTodos os detalhes encontram-se no manual produzido pelo Governo Federal.
+                
+                \n\n<b>Preenchimento da CAT</b>
+                \n\nAs empresas já estão habituadas a repassar as informações da Comunicação de Acidente de Trabalho (CAT) pelo CATWeb. A boa notícia é que pouca coisa mudará com a entrada do eSocial, pois as tabelas 13 a 17 são idênticas às utilizadas atualmente.
+
+                \n\nElas contemplam os seguintes itens:
+                
+                \n\n<b>Tabela 13</b>: Parte do corpo atingida
+                \n\n<b>Tabela 14</b>: Agente causador do acidente de trabalho
+                \n\n<b>Tabela 15</b>: Agente causador/Situação geradora da doença profissional
+                \n\n<b>Tabela 16</b>: Situação geradora de acidente de trabalho
+                \n\n<b>Tabela 17</b>: Descrição da natureza da lesão
+                
+               \n\nNesse caso, o mais importante é ficar atento ao código que deverá ser inserido em cada etapa. 
+                \n\nTodos estão descritos nas respectivas tabelas e correspondem a um fator específico, que deve ser preenchido com atenção, caso a caso.
+                
+                \n\nA principal mudança, porém, está na Tabela 24 – Codificação de acidente de trabalho, que discrimina todas as possíveis hipóteses de acidentes previstas na legislação. 
+                \n\nEssa mudança foi realizada para resolver um problema enfrentado atualmente, que permite classificar o acidente em apenas três tipos: típico, trajeto e doença.
+                \n\nDessa forma, há uma grande dificuldade na obtenção de informações qualificadas sobre o tipo de acidente, o que é resolvido com a Tabela 24.
+
+                \n\nO eSocial se tornará obrigatório a todas as empresas. Aquelas que não se adequarem dentro do prazo estipulado estarão sujeitas a algumas penalidades.
+                \n\nElas são referentes a cada empregado não registrado e embasadas pela CLT nos artigos 41 e 47.
+                \n\nConfira os valores das multas, abaixo: ME – Microempresas: R$3.000,00 EPP – Empresas de pequeno porte: R$800,00
+                        
+    </string>
+
 </resources>
