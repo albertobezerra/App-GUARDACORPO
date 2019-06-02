@@ -83,6 +83,31 @@ public class primeiros_socorros extends AppCompatActivity implements Runnable{
                     startActivityForResult(myIntent, 7);
                     displayInterstitial();
                 }
+                if (position == 8) {
+                    Intent myIntent = new Intent(view.getContext(), primeiros_socorros09.class);
+                    startActivityForResult(myIntent, 8);
+                    displayInterstitial();
+                }
+                if (position == 9) {
+                    Intent myIntent = new Intent(view.getContext(), primeiros_socorros10.class);
+                    startActivityForResult(myIntent, 9);
+                    displayInterstitial();
+                }
+                if (position == 10) {
+                    Intent myIntent = new Intent(view.getContext(), primeiros_socorros11.class);
+                    startActivityForResult(myIntent, 10);
+                    displayInterstitial();
+                }
+                if (position == 11) {
+                    Intent myIntent = new Intent(view.getContext(), primeiros_socorros12.class);
+                    startActivityForResult(myIntent, 11);
+                    displayInterstitial();
+                }
+                if (position == 12) {
+                    Intent myIntent = new Intent(view.getContext(), primeiros_socorros13.class);
+                    startActivityForResult(myIntent, 12);
+                    displayInterstitial();
+                }
 
             }
         });
