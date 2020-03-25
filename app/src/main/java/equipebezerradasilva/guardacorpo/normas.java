@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.GridView;
 import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
@@ -28,11 +29,17 @@ public class normas extends AppCompatActivity implements Runnable{
         AdRequest adRequest2 = new AdRequest.Builder().build();
         interstitialAd.loadAd(adRequest2);
 
-        final ListView lista1 = (ListView) findViewById(R.id.lista_nr);
-        final ArrayAdapter adapter = ArrayAdapter.createFromResource(this, R.array.menu_nr, android.R.layout.simple_list_item_1);
-        lista1.setAdapter(adapter);
+        int[] lista2 = new int[]{
 
-        lista1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                R.drawable.btnnr1, R.drawable.btnnr2,R.drawable.btnnr3,
+        };
+
+
+        GridView gv = (GridView) findViewById(R.id.grid_nrs);
+
+        gv.setAdapter(new adaptador(this, lista2));
+
+        gv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
 
