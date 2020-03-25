@@ -39,13 +39,12 @@ public class estacionario extends AppCompatActivity implements Runnable {
 
         int[] lista = new int[]{
 
-                R.drawable.menu_principal_normas, R.drawable.menu_principal_ca, R.drawable.menu_principal_clt, R.drawable.menu_principal_treinamentos, R.drawable.menu_principal_primeirossocorros,
-                R.drawable.menu_principal_dds, R.drawable.menu_principal_sinalizacao, R.drawable.menu_principal_mapa, R.drawable.menu_principal_datas, R.drawable.menu_principal_tecnico,
-                R.drawable.menu_principal_penalidades, R.drawable.menu_principal_aso, R.drawable.menu_principal_cid, R.drawable.menu_principal_cipa, R.drawable.menu_principal_historia,
-                R.drawable.menu_principal_nbr, R.drawable.menu_principal_nho, R.drawable.menu_principal_epi, R.drawable.menu_principal_cnae, R.drawable.menu_principal_cnpj,
-                R.drawable.menu_principal_ordemdeservico, R.drawable.menu_principal_ppp, R.drawable.menu_principal_incendio, R.drawable.menu_principal_acidentesdetrabalho,
-                R.drawable.menu_principal_riscos, R.drawable.menu_principal_esocial,
-
+                R.drawable.btn1, R.drawable.btn2, R.drawable.btn3, R.drawable.btn4, R.drawable.btn5,
+                R.drawable.btn6, R.drawable.btn7, R.drawable.btn8, R.drawable.btn9, R.drawable.btn10,
+                R.drawable.btn11, R.drawable.btn12, R.drawable.btn13, R.drawable.btn14, R.drawable.btn15,
+                R.drawable.btn16, R.drawable.btn17, R.drawable.btn18, R.drawable.btn19, R.drawable.btn20,
+                R.drawable.btn21, R.drawable.btn22, R.drawable.btn23, R.drawable.btn24, R.drawable.btn25,
+                R.drawable.btn26
         };
 
 
