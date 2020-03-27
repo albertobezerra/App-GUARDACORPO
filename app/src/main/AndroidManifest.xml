@@ -2,10 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="equipebezerradasilva.guardacorpo">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -13,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".nr30_anexo1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr30_anexo2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".primeiros_socorros13"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -140,64 +142,19 @@
             android:name=".nr10"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
-            android:name=".nr11_estacionario"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
             android:name=".nr11"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".nr11_anexo1"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
-            android:name=".nr12_estacionario"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
             android:name=".nr12"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo1"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo2"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo3"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo4"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo5"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo6"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo7"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo8"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo9"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo10"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo11"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr12_anexo12"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".nr13"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".nr14"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr15_estacionario"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".nr15"
@@ -246,9 +203,6 @@
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".nr16"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr17_estacionario"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".nr17"
@@ -473,5 +427,9 @@
             android:name=".nho_estacionario"
             android:theme="@style/AppCompat.Tela_Cheia" />
     </application>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
 </manifest>
