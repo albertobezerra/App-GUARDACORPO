@@ -31,8 +31,18 @@ public class normas extends AppCompatActivity implements Runnable{
 
         int[] lista2 = new int[]{
 
-                R.drawable.btnnr1, R.drawable.btnnr2,R.drawable.btnnr3,
-        };
+                R.drawable.btnnr01, R.drawable.btnnr02,R.drawable.btnnr03,R.drawable.btnnr04,R.drawable.btnnr05,R.drawable.btnnr06,
+                R.drawable.btnnr07,R.drawable.btnnr08,R.drawable.btnnr09, R.drawable.btnnr10, R.drawable.btnnr11, R.drawable.btnnr11a1,
+                R.drawable.btnnr12,R.drawable.btnnr13, R.drawable.btnnr14,
+                R.drawable.btnnr15, R.drawable.btnnr15a1, R.drawable.btnnr15a2, R.drawable.btnnr15a3, R.drawable.btnnr15a4,
+                R.drawable.btnnr15a5, R.drawable.btnnr15a6, R.drawable.btnnr15a7, R.drawable.btnnr15a8, R.drawable.btnnr15a9,
+                R.drawable.btnnr15a10, R.drawable.btnnr15a11, R.drawable.btnnr15a12, R.drawable.btnnr15a13, R.drawable.btnnr15a13a,
+                R.drawable.btnnr15a14, R.drawable.btnnr16, R.drawable.btnnr17, R.drawable.btnnr17a1, R.drawable.btnnr17a2,
+                R.drawable.btnnr18, R.drawable.btnnr19, R.drawable.btnnr20, R.drawable.btnnr21, R.drawable.btnnr22, R.drawable.btnnr23,
+                R.drawable.btnnr24, R.drawable.btnnr25, R.drawable.btnnr26, R.drawable.btnnr27, R.drawable.btnnr28, R.drawable.btnnr29,
+                R.drawable.btnnr30, R.drawable.btnnr31, R.drawable.btnnr32, R.drawable.btnnr33, R.drawable.btnnr34, R.drawable.btnnr35,
+                R.drawable.btnnr36, R.drawable.btnnr37,
+         };
 
 
         GridView gv = (GridView) findViewById(R.id.grid_nrs);
