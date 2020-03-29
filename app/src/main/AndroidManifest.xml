@@ -113,9 +113,6 @@
             android:name=".nr1"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
-            android:name=".nr2"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
             android:name=".nr3"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
