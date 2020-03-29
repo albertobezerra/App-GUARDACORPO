@@ -251,6 +251,12 @@
             android:name=".nr30"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
+            android:name=".nr30_anexo1"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
+            android:name=".nr30_anexo2"
+            android:theme="@style/AppCompat.Tela_Cheia" />
+        <activity
             android:name=".nr31"
             android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
