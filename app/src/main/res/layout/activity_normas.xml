@@ -18,12 +18,11 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
             android:layout_marginStart="0dp"
-            android:layout_marginTop="14dp"
-            android:layout_marginBottom="14dp"
-            android:layout_marginEnd="22dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginEnd="0dp"
             android:background="@drawable/btnvoltar1"
-            android:onClick="voltar_estacionario"
-            android:layout_centerInParent="true"/>
+            android:onClick="voltar_estacionario" />
 
     </RelativeLayout>
 
@@ -31,14 +30,15 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginEnd="22dp"
-        android:layout_marginStart="0dp"
+        android:layout_marginStart="22dp"
         android:horizontalSpacing="8dp"
         android:verticalSpacing="8dp"
+        android:layout_marginBottom="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/menu"
-        android:id="@+id/grid_nrs"
+        android:id="@+id/grid_normas"
         />
 
 </android.support.constraint.ConstraintLayout>
