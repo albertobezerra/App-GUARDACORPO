@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.GridView;
 import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
@@ -28,11 +29,20 @@ public class treinamentos extends AppCompatActivity implements Runnable {
         AdRequest adRequest2 = new AdRequest.Builder().build();
         interstitialAd.loadAd(adRequest2);
 
-        final ListView lista1 = (ListView) findViewById(R.id.lista_treinamentos);
-        final ArrayAdapter adapter = ArrayAdapter.createFromResource(this, R.array.menu_treinamentos, android.R.layout.simple_list_item_1);
-        lista1.setAdapter(adapter);
+        int[] lista3 = new int[]{
 
-        lista1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                R.drawable.btntreinamentos1, R.drawable.btntreinamentos2, R.drawable.btntreinamentos3,
+                R.drawable.btntreinamentos4, R.drawable.btntreinamentos5, R.drawable.btntreinamentos6,
+                R.drawable.btntreinamentos7, R.drawable.btntreinamentos8, R.drawable.btntreinamentos9,
+                R.drawable.btntreinamentos10, R.drawable.btntreinamentos11, R.drawable.btntreinamentos12,
+        };
+
+
+        GridView gv = (GridView) findViewById(R.id.grid_treinamentos);
+
+        gv.setAdapter(new adaptador(this, lista3));
+
+        gv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
 
