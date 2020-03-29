@@ -15,7 +15,7 @@ repositories {
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 29
 
 
     lintOptions {
@@ -31,7 +31,7 @@ android {
                                 // Project number pulled from dashboard, local value is ignored.
                                 onesignal_google_project_number: "468348031627"]
         minSdkVersion 19
-        targetSdkVersion 27
+        targetSdkVersion 29
         versionCode 19
         versionName "2.5.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -46,15 +46,18 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //noinspection GradleCompatible
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
     testImplementation 'junit:junit:4.13'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
-    implementation 'com.google.android.gms:play-services-ads:15.0.0' //* publicidade *//
+    implementation 'com.google.android.gms:play-services-ads:19.0.1' //* publicidade *//
     implementation 'com.github.barteksc:android-pdf-viewer:2.8.2' //* exibir o pdf *//
     implementation 'com.onesignal:OneSignal:3.13.0'
     implementation 'android.arch.navigation:navigation-fragment:1.0.0'
     implementation 'android.arch.navigation:navigation-ui:1.0.0'//* notificação *//
+
+    implementation 'androidx.appcompat:appcompat:1.1.0'
 }
