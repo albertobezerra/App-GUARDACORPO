@@ -28,7 +28,7 @@ public class nr17_anexo2 extends AppCompatActivity {
 
     public void voltar_nr(View view) {
 
-        Intent secondActivity = new Intent(this, normas.class);
+        Intent secondActivity = new Intent(this, nr17_estacionario.class);
         startActivity(secondActivity);
     }
 }

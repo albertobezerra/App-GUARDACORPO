@@ -100,13 +100,13 @@ public class estacionario extends AppCompatActivity implements Runnable {
                 }
 
                 if (position == 7) {
-                    Intent myIntent = new Intent(view.getContext(), datas.class);
+                    Intent myIntent = new Intent(view.getContext(), mapa.class);
                     startActivityForResult(myIntent, 7);
                     displayInterstitial();
                 }
 
                 if (position == 8) {
-                    Intent myIntent = new Intent(view.getContext(), mapa.class);
+                    Intent myIntent = new Intent(view.getContext(), datas.class);
                     startActivityForResult(myIntent, 8);
                     displayInterstitial();
                 }

@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="equipebezerradasilva.guardacorpo">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,12 +13,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".nr30_anexo1"
-            android:theme="@style/AppCompat.Tela_Cheia" />
-        <activity
-            android:name=".nr30_anexo2"
-            android:theme="@style/AppCompat.Tela_Cheia" />
         <activity
             android:name=".primeiros_socorros13"
             android:theme="@style/AppCompat.Tela_Cheia" />
@@ -427,9 +425,5 @@
             android:name=".nho_estacionario"
             android:theme="@style/AppCompat.Tela_Cheia" />
     </application>
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.INTERNET" />
-
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
 </manifest>

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".nr23"
-    android:background="@color/white">
+    android:background="@color/verde">
 
     <RelativeLayout
         android:id="@+id/menu"
@@ -13,11 +13,22 @@
         android:layout_height="80dp">
 
         <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_centerInParent="true"
-            android:background="@drawable/btnvoltargeral"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20dp"
+            android:background="@drawable/back"
             android:onClick="voltar_nr" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="NR 23"
+            android:textColor="@android:color/white"
+            android:textSize="24sp"
+            />
 
     </RelativeLayout>
 

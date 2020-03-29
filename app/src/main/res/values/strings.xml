@@ -4,6 +4,49 @@
     <string name="banner">ca-app-pub-7979689703488774/4117286099</string>
     <string name="inters">ca-app-pub-7979689703488774/6918601457</string>
 
+    <string-array name="menu_nr">
+        <item>NR 1 - Disposições Gerais</item>
+        <item>NR 2 - Inspeção Prévia</item>
+        <item>NR 3 - Embargo e Interdição</item>
+        <item>NR 4 - Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho - SESMT</item>
+        <item>NR 5 - Comissão Interna de Prevenção de Acidentes - CIPA</item>
+        <item>NR 6 - Equipamento de Proteção Individual - EPI</item>
+        <item>NR 7 - Programa de Controle Médico de Saúde Ocupacional - PCMSO</item>
+        <item>NR 8 - Edificações</item>
+        <item>NR 9 - Programa de Prevenção de Riscos Ambientais - PPRA</item>
+        <item>NR 10 - Segurança em Instalações e Redes Elétricas</item>
+        <item>NR 11 - Transporte, Movimentação, Armazenagem e Manuseios de Materiais</item>
+        <item>NR 12 - Segurança no Trabalho em Máquinas e Equipamentos</item>
+        <item>NR 13 - Caldeiras, Vasos de Pressão e Tubulações</item>
+        <item>NR 14 - Fornos</item>
+        <item>NR 15 - Atividades e Operações Insalubres</item>
+        <item>NR 16 - Atividades e Operações Perigosas</item>
+        <item>NR 17 - Ergonomia</item>
+        <item>NR 18 - Condições e Meio Ambiente de Trabalho na Indústria da Construção</item>
+        <item>NR 19 - Explosivos</item>
+        <item>NR 20 - Segurança e Saúde no Trabalho com Inflamavéis e Combustivéis</item>
+        <item>NR 21 - Trabalhos a Céu Aberto</item>
+        <item>NR 22 - Segurança e Saúde Ocupacional na Mineração</item>
+        <item>NR 23 - Proteção Contra Incêndio</item>
+        <item>NR 24 - Condições Sanitárias e de Conforto nos Locais de Trabalho</item>
+        <item>NR 25 - Resíduos Industriais</item>
+        <item>NR 26 - Sinalização de Segurança</item>
+        <item>NR 27 - CANCELADA</item>
+        <item>NR 28 - Fiscalização e Penalidades</item>
+        <item>NR 29 - Norma Regulametadora de Segurança e Saúde no Trabalho Portuário</item>
+        <item>NR 30 - Segurança e Saúde no Trabalho Aquaviário</item>
+        <item>NR 31 - Segurança e Saúde no Trabalho na Agricultura, Pecuária, Silvicultura, Exploração Floresta e Aquicultura</item>
+        <item>NR 32 - Segurança e Saúde no Trabalho em Serviços de Saúde</item>
+        <item>NR 33 - Segurança e Saúde no Trabalho em Espaços Confinados</item>
+        <item>NR 34 - Condições e Meio Ambiente de Trabalho na Indústria de Construção e Reparação Naval</item>
+        <item>NR 35 - Trabalho em Altura</item>
+        <item>NR 36 - Segurança e Saúde no Trabalho nas Empresas de Abate, Processamento de Carnes e Derivados</item>
+        <item>NR 37 - Segurança e Saúde em Plataformas de Petróleo</item>
+
+
+    </string-array>
+
+
     <string name="datas">28/02 - Dia Internacional de Prevenção às Lesões por Esforço Repetitivos (LER)
         \n\n08/03 - Dia Internacional da Mulher
         \n\n16/04 - Dia Nacional da Voz
@@ -22,7 +65,6 @@
 
     </string>
 
-
     <string name="tecnico">O profissional de Segurança do Trabalho atua conforme sua formação, seja Médico, Enfermeiro, Engenheiro ou Técnico.
         \n\nDe modo geral o técnico de segurança e o engenheiro atuam no desenvolvimento dos programas de prevenção de acidentes, CIPA, uso correto dos EPI`s, na elaboração de planos de prevenção a riscos ambientais, insperções de segurança, laudos técnicos e organização de palestras e treinamentos.
 
@@ -33,6 +75,7 @@
 
 
     </string>
+
 
     <string name="historia">
 
@@ -244,7 +287,6 @@
 
     </string>
 
-
     <string name="aso">
 
         O ASO - Atestado de Saúde Ocupacional é um documento solicitado pela empresa onde o médico do trabalho atesta a condição de apto ou não apto ao colaborador para uma determinada função.
@@ -296,6 +338,7 @@
         \n\nA empresa teve infração 4 e tem 65 funcionários. Você vai usar para cáculo: 68 referente a infração do tipo quatro e 4 referente aos 65 funcinários.
 
     </string>
+
 
     <string name="mapaderisco">O Mapa de Risco é uma maneira eficiente de proteger seus funcionários, mostrando claramente os riscos que o ambiente de trabalho pode apresentar.
         \n\nPara conseguir essa visualização, é preciso estudar a empresa de forma efetiva para, assim, chegar a um diagnóstico sobre os perigos de cada de setor.
@@ -355,7 +398,6 @@
 
     </string>
 
-
     <string name="sinalizacao"><b>Conceito</b>
         \n\nDentre os métodos de proteção e asseguração da vida, da saúde e da profissão dos trabalhadores que estão inseridos no ramo da Segurança do Trabalho, se encontra a sinalização de segurança.
         Seu objetivo é alertar trabalhadores e visitantes no local sobre os riscos existentes ali, equipamentos protetores e outras informações imprescindíveis para segurança no local.\n\nA sinalização sever para alertar. Com letra clara, ilustrações óbvias de fácil entendimento, o que ajuda em casos emergenciais rapidamente. Nas ilustrações são usados símbolos universais que oferecem entendimento padronizado e não gera duplo sentido ou qualquer outra confusão.
@@ -404,6 +446,26 @@
 
     </string>
 
+
+    <string-array name="menu_treinamentos">
+
+        <item>E.P.I. e E.P.C.</item>
+        <item>Condições Sanitárias</item>
+        <item>Materiais Químicos</item>
+        <item>Riscos da Função</item>
+        <item>Foco na atividade</item>
+        <item>Insalubridade e Periculosidade</item>
+        <item>Sinalização de Segurança</item>
+        <item>Controle de Perdas</item>
+        <item>Absenteísmo e Assiduidade</item>
+        <item>Acidentes de Trabalho</item>
+        <item>Exames ocupacionais e ASO</item>
+        <item>LER e DORT</item>
+
+
+    </string-array>
+
+
     <string name="tre1">O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
         mas auxiliar o ministrante do treinamento no que deve ser levado em consideração em seu treinamento.\n\nNo treinamento de Uso de EPI e EPC aborde
         os seguintes subtemas:\n\n• Necessidades do uso do EPI e do EPC.\n• Diferenças entre o EPI e o EPC.\n• Uso correto destes equipamentos.\n• Manutenção e Trocas.\n\n\nOBS:
@@ -411,8 +473,6 @@
         imagens e menos textos. Tome a NR 6 para fundamentar sua apresentação e NBRs pertinentes ao tema.
 
     </string>
-
-
     <string name="tre2">
 
         O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
@@ -422,8 +482,6 @@
         imagens e menos textos. Tome a NR 24 para fundamentar sua apresentação e NBRs pertinentes ao tema.
 
     </string>
-
-
     <string name="tre3">
 
         O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
@@ -549,6 +607,25 @@
         imagens e menos textos. Tome a NR 17 para fundamentar sua apresentação e NBRs pertinentes ao tema.
 
     </string>
+
+    <string-array name="lista_primeirossocorros">
+
+        <item>➤ INFORMAÇÕES GERAIS </item>
+        <item>Esmagamentos</item>
+        <item>Amputação</item>
+        <item>Cortes e escoriações</item>
+        <item>Engasgamentos</item>
+        <item>Desmaios e convulções</item>
+        <item>Animais peçonhentos</item>
+        <item>Descarga elétrica</item>
+        <item>Hemorragia Nasal</item>
+        <item>Queimaduras</item>
+        <item>Fraturas</item>
+        <item>Afogamentos</item>
+        <item>Mordida de animais</item>
+
+    </string-array>
+
     <string name="soco1">São nos primeiros socorros que podemos salvar a vida de qualquer pessoa. A NR 7 diz que todo estabelecimento deverá estar equipado com material necessário à prestação dos primeiros socorros, considerando-se as características da atividade desenvolvida. O material deve ser guardado em local adequado e aos cuidados de pessoa treinada para esse fim.
 
         \n\nContudo, a pessoa que vai prestar os primeiros socorros deve ser devidamente treinada para tal. No treinamento os responsáveis pelo kit precisam aprender a manusear os equipamentos, fazer curativos e prestar atendimento.
@@ -581,7 +658,6 @@
 
 
     </string>
-
     <string name="soco3">É a separação de um membro ou estrutura do restante do corpo. Pode ser causada por diversos tipos de acidentes. Entre os mais comuns estão os com objetos cortantes (serra elétrica), os acidentes de trânsito (principalmente de moto), a violência, o choque e o esmagamento.
         \n\nNesse tipo de emergência, a rapidez na busca pelo atendimento é um fator determinante para conter qualquer tipo de infecção e também para o sucesso da reimplantação do membro.
 
@@ -597,7 +673,6 @@
 
 
     </string>
-
     <string name="soco4">Os cortes são ferimentos que acontecem com frequência em casa. Existem diversas formas de se machucar, seja com uma faca na cozinha, escorregando no chão molhado, pisando em um caco de vidro ou esbarrando em objetos pontudos. É importante saber cuidar do ferimento para que ele não infeccione.
 
         \n\n<b>Primeiros socorros em cortes superficiais</b>
@@ -716,6 +791,8 @@
         \n\nSe a vítima apresentar inconsciência; porém, estiver respirando e com pulsação, deve-se colocá-la na PLS (Posição Lateral de Segurança) descrita anteriormente e aguardar a chegada do socorro especializado.
 
     </string>
+
+
     <string name="dds1">Os andaimes são muito utilizados pela construção civil. Eles servem para o uso de trabalho em altura como exemplo: construção, demolição, reforma, pintura, limpeza e manutenção.
 
         \n\nFale sobre a importação da fixação correta do mesmo para poder ser utilizado de forma correta. Se a empresa já possuir algum histórico de acidente com andaime o use como exemplo.
@@ -744,8 +821,6 @@
         \n\nEm caso de qualquer choque elétrico deve ser tomada providências de forma imediata, por conta que na maioria das vezes os acidentes com choque elétrico são fatais.
 
     </string>
-
-
     <string name="dds4">O ASO é o atestado de saúde ocupacional, onde o médico do trabalho atesta se o colaborador está apto ou não para ser admito, demito ou mudar de função.
         \n\nO ASO é um atestado que depende de exames complementares. Exames complementares são exames de sangue, urina, audiometria, espirometria, entre outros.
         \n\nEsses exames são estabelecidos no PCMSO a depender das atividades que os colabores iram desenvolver na empresa.
@@ -872,6 +947,26 @@
         \n\n“A oferta é grande, por isso é preciso ser exigente na hora da escolha”, ensina o especialista com mais de 40 anos de experiência na área de ruído e vibrações.
 
     </string>
+
+    <string-array name="lista_temasdedds">
+
+        <item>Trabalho em andaimes</item>
+        <item>A importância do capacete de segurança</item>
+        <item>Choque elétrico</item>
+        <item>ASO</item>
+        <item>CIPA</item>
+        <item>Ordem de serviço</item>
+        <item>O que embarga e o que interdita?</item>
+        <item>Vapores e Gases</item>
+        <item>Resíduo industrial</item>
+        <item>Lavagem de mãos</item>
+        <item>Risco com baterias</item>
+        <item>PFF1, PFF2 ou PFF3?</item>
+        <item>Protetor auricular: plug ou concha?</item>
+
+
+    </string-array>
+
     <string name="nbrs">NBR 9050 - Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.
 
         \n\nNBR 18801 - Sistemas de Gestão de Segurança e Saúde no Trabalho.
@@ -881,6 +976,23 @@
         \n\nNBR 13966 - Ergonomia - Móveis para escritórios - Mesas.
 
     </string>
+
+    <string-array name="lista_nho">
+
+        <item>NHO 1 - Avaliação de exposição ocupacional ao ruído</item>
+        <item>NHO 2 - Análise qualitativa da fração volátil (Vapores orgânicos)</item>
+        <item>NHO 3 - Análise gravimétrica de aerodispersóides sólidos coletados sobre filtros de membrana</item>
+        <item>NHO 4 - Método de coleta e análise de fibras em locais de trabalho</item>
+        <item>NHO 5 - Avaliação da exposição ocupacional aos raios X nos serviços de radiologia</item>
+        <item>NHO 6 - Avaliação da exposição ocupacional ao calor</item>
+        <item>NHO 7 - Calibragem de bombas de amostragem individual pelo método da bolha de sabão</item>
+        <item>NHO 8 - Coleta de material particulado sólido suspenso no ar de ambientes de trabalho</item>
+        <item>NHO 9 - Avaliação da exposição ocupacional a vibrações de corpo inteiro</item>
+        <item>NHO 10 - Avaliação da exposição ocupacional a vibrações em mãos e braços</item>
+        <item>NHO 11 - Avaliação dos níveis de iluminamento em ambientes internos de trabalho</item>
+
+    </string-array>
+
     <string name="epi">Os equipamentos de proteção individual são responsávies por proteger os trabalhadores e garantir segurança contra riscos capazes de ameaçar sua saúde e integridade física.
         \nSão especialmente utilizados em funções de risco, em linhas de produção onde os ruídos sejam grandes ou em alturas elevadas acima de 2,00m do nível inferior.
         \n\nOs tipos de equipamentos de proteção individual utilizados podem variar dependendo da atividade a ser realizada ou dos riscos que ela poderá trazer a segurança e a saúde do trabalhador e a parte do corpo que se pretende proteger.
@@ -918,6 +1030,7 @@
 
 
     </string>
+
     <string name="ordemdeservico">A ordem de serviço é o documento que quando assinado por colaborador atesta que o mesmo tem ciência dos riscos da sua atividade, assim como as obrigações do empregado e empregador.
         \n\nA NR 1 menciona no item 1.7 letra "B" que o empregador deve elaborar Ordens de Serviço dando ciência aos funcionários a respeito dos riscos no ambiente.  A partir do momento da assinatura do documento, o funcionário não tem mais como alegar que desconhece dos riscos de sua atividade e obrigações sua e de seu empregador.
         \n\nNo item 1.8 letra "A": Cabe ao funcionário cumprir as normas de Segurança do Trabalho e as Ordens de Serviços emitidas pelo empregador. O descumprimento das normas sujeita o colaborador a medida disciplinar.
@@ -1007,11 +1120,11 @@
     </string>
 
     <string name="acidentesdetrabalho">Conforme dispõe o art. 19 da Lei nº 8.213/91, "acidente de trabalho é o que ocorre pelo exercício do trabalho a serviço da empresa ou pelo exercício do trabalho dos segurados referidos no inciso VII do art. 11 desta lei, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho".
-     \n\nAo lado da conceituação acima, de acidente de trabalho típico, por expressa determinação legal, as doenças profissionais e/ou ocupacionais equiparam-se a acidentes de trabalho.
+     \n\nAo lado da conceituação acima, de acidente de trabalho típico, por expressa determinação legal, as doenças profissionais e/ou ocupacionais equiparam-se a acidentes de trabalho. 
         \n\n\nOs incisos do art. 20 da Lei nº 8.213/91 as conceitua:
 
          \n\n<b>- doença profissional, assim entendida a produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade e constante da respectiva relação elaborada pelo Ministério do Trabalho e da Previdência Social;</b>
-
+    
          \n\n<b>- doença do trabalho, assim entendida a adquirida ou desencadeada em função de condições especiais em que o trabalho é realizado e com ele se relacione diretamente, constante da relação mencionada no inciso I.</b>
 
      \n\nComo se revela inviável listar todas as hipóteses dessas doenças, o § 2º do mencionado artigo da Lei nº 8.213/91 estabelece que, "em caso excepcional, constatando-se que a doença não incluída na relação prevista nos incisos I e II deste artigo resultou das condições especiais em que o trabalho é executado e com ele se relaciona diretamente, a Previdência Social deve considerá-la acidente do trabalho".
@@ -1019,31 +1132,31 @@
      \n\nO art. 21 da Lei nº 8.213/91 equipara ainda a acidente de trabalho:
 
         \n\nI - o acidente ligado ao trabalho que, embora não tenha sido a causa única, haja contribuído diretamente para a morte do segurado, para redução ou perda da sua capacidade para o trabalho, ou produzido lesão que exija atenção médica para a sua recuperação;
-
+        
         \n\nII - o acidente sofrido pelo segurado no local e no horário do trabalho, em consequência de:
-
+        
         \n\n\na) ato de agressão, sabotagem ou terrorismo praticado por terceiro ou companheiro de trabalho;
-
+        
         \n\nb) ofensa física intencional, inclusive de terceiro, por motivo de disputa relacionada ao trabalho;
-
+        
         \n\nc) ato de imprudência, de negligência ou de imperícia de terceiro ou de companheiro de trabalho;
-
+        
         \n\nd) ato de pessoa privada do uso da razão;
-
+        
         \n\ne) desabamento, inundação, incêndio e outros casos fortuitos ou decorrentes de força maior;
-
+        
         \n\nIII - a doença proveniente de contaminação acidental do empregado no exercício de sua atividade;
-
+        
         \n\nIV - o acidente sofrido pelo segurado ainda que fora do local e horário de trabalho:
-
+        
         \n\na) na execução de ordem ou na realização de serviço sob a autoridade da empresa;
-
+        
         \n\nb) na prestação espontânea de qualquer serviço à empresa para lhe evitar prejuízo ou proporcionar proveito;
-
+        
         \n\nc) em viagem a serviço da empresa, inclusive para estudo quando financiada por esta dentro de seus planos para melhor capacitação da mão de obra, independentemente do meio de locomoção utilizado, inclusive veículo de propriedade do segurado;
-
+        
         \n\nd) no percurso da residência para o local de trabalho ou deste para aquela, qualquer que seja o meio de locomoção, inclusive veículo de propriedade do segurado.
-
+        
         \n\n§ 1º Nos períodos destinados a refeição ou descanso, ou por ocasião da satisfação de outras necessidades fisiológicas, no local do trabalho ou durante este, o empregado é considerado no exercício do trabalho.
 
      \n\nEsses acidentes não causam repercussões apenas de ordem jurídica. Nos acidentes menos graves, em que o empregado tenha que se ausentar por período inferior a quinze dias, o empregador deixa de contar com a mão de obra temporariamente afastada em decorrência do acidente e tem que arcar com os custos econômicos da relação de empregado.
@@ -1094,184 +1207,62 @@
         \n\n\nNo PPRA esses riscos ambientais ganham cores: riscos físicos (verde), químicos (vermelho), biológico (marron), acidente (azul) e ergonômico (amarelo)
     </string>
 
-    <string name="esocial">A partir de julho de 2019, empresas com faturamento anual acima de R$ 78 milhões começarão a enviar as informações de saúde e segurança para o eSocial.
-            \n\nApesar da prorrogação do prazo inicial, as companhias não podem se descuidar da preparação, já que o período de testes está prestes a começar.
+    <string name="esocial">A partir de julho de 2019, empresas com faturamento anual acima de R$ 78 milhões começarão a enviar as informações de saúde e segurança para o eSocial. 
+            \n\nApesar da prorrogação do prazo inicial, as companhias não podem se descuidar da preparação, já que o período de testes está prestes a começar. 
             \n\nE como o sistema é cheio de pequenos detalhes que devem ser observados, vamos explicar como funcionam as tabelas eSocial aplicadas à área de SST.
             \n\nO eSocial é dividido em eventos, divididos em quatro categorias: iniciais ou de tabela, periódicos ou não. Eles nada mais são do que um conjunto de dados que precisam ser enviados sobre determinado assunto – que já eram obrigatórios de acordo com a legislação, mas que agora serão compilados em um único lugar.
             \n\nPara o correto preenchimento de alguns desses eventos, foram criadas as tabelas. Elas reúnem os códigos que podem ser inseridos nos campos solicitados, contendo todas as possíveis alternativas a serem utilizadas.
             \n\nUm exemplo é a Tabela 01: Categoria de Trabalhadores. Se você estiver enviando os dados de um empregado geral – inclusive público da administração direta ou indireta contratado pela CLT –, o código a ser inserido é 101.
             \n\nEsse é apenas um caso, mas isso ocorre em todos os campos. Por isso, é preciso sempre consultar a tabela antes de realizar o envio das informações.
             \n\n\nAlgumas dessas tabelas são específicas para os eventos de saúde e segurança do trabalho, então vamos falar sobre cada uma delas:
-
+                
               \n\n<b>Tabela 23</b>: Fatores de Risco do Meio Ambiente de Trabalho
                 \n\Os riscos físicos, biológicos, químicos, ergonômicos, periculosos e mecânicos devem ser descritos no evento S-2240 (Condições Ambientais do Trabalho), com base nos códigos presentes na Tabela 23.
                 \n\nÉ preciso atenção extra aos riscos ergonômicos e de acidentes, que passam a ser obrigatórios após a implantação do Perfil Profissiográfico Previdenciário (PPP) no formato digital.
                 \n\nOutro ponto de alerta é a descrição dos fatores químicos, que deve ser feita levando em consideração a composição química, não o nome dos produtos.
-
+                
                \n\n<b>Tabela 27</b>: Procedimentos Diagnósticos
                \n\nDetalha todos os exames complementares que devem ser realizados pelo empregado, seja durante a admissão, demissão ou eventos periódicos. Antes, isso era feito utilizando o código TUSS.
                \n\nMas como ele possui muitos códigos e nem todos se aplicam ao contexto empresarial, as informações foram simplificadas na Tabela 27 – que possui 1.400 códigos e se restringe apenas à área ocupacional.
                 \n\nEsses novos códigos serão utilizados para preenchimento do evento S-2220 (Monitoramento da Saúde do Trabalhador).
-
+                
                 \n\n<b>Tabela 28</b>: Atividades Perigosas, Insalubres e/ou especiais
                 \n\nContém uma lista de todas as possíveis atividades perigosas, insalubres ou especiais a que um empregado pode ser exposto nos mais diversos ambientes de trabalho.
                 \n\nAuxilia no preenchimento do evento S-2240 (Condições Ambientais do Trabalho) e tem como principal objetivo fornecer insumos ao Governo Federal para concessão dos benefícios envolvendo cada um desses casos.
-
+                
                 \n\nVale lembrar que mesmo na ausência da atividade na tabela, o trabalhador ainda tem direito aos adicionais ou à aposentadoria especial.
                 \n\nDe acordo com a legislação, a simples exposição a fatores de risco acima do limite de tolerância pode gerar tais benefícios, independente de qual seja a atividade desenvolvida pela pessoa.
-
+                
                 \n\n<b>Tabela 29</b>: Treinamentos, Capacitações e Exercícios Simulados
                 \n\n\As informações sobre determinadas atividades obrigatórias já deveriam constar no Livro de Registro de Empregado, então isso apenas será migrado para o eSocial.
                 \n\nNo sistema, esses dados serão preenchidos no evento S-2245, a partir dos códigos obtidos na Tabela 29.
-
+                
                 \n\nO principal ponto de atenção neste caso é sobre a obrigatoriedade ou não de descrever o treinamento no eSocial.
                 \n\nO sistema não exige a inserção de todos, embora sua empresa continue sendo obrigada a realizá-los, de acordo com a legislação trabalhista atual.
                 \n\nTodos os detalhes encontram-se no manual produzido pelo Governo Federal.
-
+                
                 \n\n<b>Preenchimento da CAT</b>
                 \n\nAs empresas já estão habituadas a repassar as informações da Comunicação de Acidente de Trabalho (CAT) pelo CATWeb. A boa notícia é que pouca coisa mudará com a entrada do eSocial, pois as tabelas 13 a 17 são idênticas às utilizadas atualmente.
 
                 \n\nElas contemplam os seguintes itens:
-
+                
                 \n\n<b>Tabela 13</b>: Parte do corpo atingida
                 \n\n<b>Tabela 14</b>: Agente causador do acidente de trabalho
                 \n\n<b>Tabela 15</b>: Agente causador/Situação geradora da doença profissional
                 \n\n<b>Tabela 16</b>: Situação geradora de acidente de trabalho
                 \n\n<b>Tabela 17</b>: Descrição da natureza da lesão
-
-               \n\nNesse caso, o mais importante é ficar atento ao código que deverá ser inserido em cada etapa.
+                
+               \n\nNesse caso, o mais importante é ficar atento ao código que deverá ser inserido em cada etapa. 
                 \n\nTodos estão descritos nas respectivas tabelas e correspondem a um fator específico, que deve ser preenchido com atenção, caso a caso.
-
-                \n\nA principal mudança, porém, está na Tabela 24 – Codificação de acidente de trabalho, que discrimina todas as possíveis hipóteses de acidentes previstas na legislação.
+                
+                \n\nA principal mudança, porém, está na Tabela 24 – Codificação de acidente de trabalho, que discrimina todas as possíveis hipóteses de acidentes previstas na legislação. 
                 \n\nEssa mudança foi realizada para resolver um problema enfrentado atualmente, que permite classificar o acidente em apenas três tipos: típico, trajeto e doença.
                 \n\nDessa forma, há uma grande dificuldade na obtenção de informações qualificadas sobre o tipo de acidente, o que é resolvido com a Tabela 24.
 
                 \n\nO eSocial se tornará obrigatório a todas as empresas. Aquelas que não se adequarem dentro do prazo estipulado estarão sujeitas a algumas penalidades.
                 \n\nElas são referentes a cada empregado não registrado e embasadas pela CLT nos artigos 41 e 47.
                 \n\nConfira os valores das multas, abaixo: ME – Microempresas: R$3.000,00 EPP – Empresas de pequeno porte: R$800,00
-
+                        
     </string>
-
-    <string name="title_activity_nr30_anexo1">nr30_anexo1</string>
-
-    <string name="first_fragment_label">First Fragment</string>
-
-    <string name="second_fragment_label">Second Fragment</string>
-
-    <string name="next">Next</string>
-
-    <string name="previous">Previous</string>
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string-array name="menu_nr">
-        <item>NR 1 - Disposições Gerais</item>
-        <item>NR 2 - Inspeção Prévia</item>
-        <item>NR 3 - Embargo e Interdição</item>
-        <item>NR 4 - Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho - SESMT</item>
-        <item>NR 5 - Comissão Interna de Prevenção de Acidentes - CIPA</item>
-        <item>NR 6 - Equipamento de Proteção Individual - EPI</item>
-        <item>NR 7 - Programa de Controle Médico de Saúde Ocupacional - PCMSO</item>
-        <item>NR 8 - Edificações</item>
-        <item>NR 9 - Programa de Prevenção de Riscos Ambientais - PPRA</item>
-        <item>NR 10 - Segurança em Instalações e Redes Elétricas</item>
-        <item>NR 11 - Transporte, Movimentação, Armazenagem e Manuseios de Materiais</item>
-        <item>NR 12 - Segurança no Trabalho em Máquinas e Equipamentos</item>
-        <item>NR 13 - Caldeiras, Vasos de Pressão e Tubulações</item>
-        <item>NR 14 - Fornos</item>
-        <item>NR 15 - Atividades e Operações Insalubres</item>
-        <item>NR 16 - Atividades e Operações Perigosas</item>
-        <item>NR 17 - Ergonomia</item>
-        <item>NR 18 - Condições e Meio Ambiente de Trabalho na Indústria da Construção</item>
-        <item>NR 19 - Explosivos</item>
-        <item>NR 20 - Segurança e Saúde no Trabalho com Inflamavéis e Combustivéis</item>
-        <item>NR 21 - Trabalhos a Céu Aberto</item>
-        <item>NR 22 - Segurança e Saúde Ocupacional na Mineração</item>
-        <item>NR 23 - Proteção Contra Incêndio</item>
-        <item>NR 24 - Condições Sanitárias e de Conforto nos Locais de Trabalho</item>
-        <item>NR 25 - Resíduos Industriais</item>
-        <item>NR 26 - Sinalização de Segurança</item>
-        <item>NR 27 - CANCELADA</item>
-        <item>NR 28 - Fiscalização e Penalidades</item>
-        <item>NR 29 - Norma Regulametadora de Segurança e Saúde no Trabalho Portuário</item>
-        <item>NR 30 - Segurança e Saúde no Trabalho Aquaviário</item>
-        <item>NR 31 - Segurança e Saúde no Trabalho na Agricultura, Pecuária, Silvicultura, Exploração Floresta e Aquicultura</item>
-        <item>NR 32 - Segurança e Saúde no Trabalho em Serviços de Saúde</item>
-        <item>NR 33 - Segurança e Saúde no Trabalho em Espaços Confinados</item>
-        <item>NR 34 - Condições e Meio Ambiente de Trabalho na Indústria de Construção e Reparação Naval</item>
-        <item>NR 35 - Trabalho em Altura</item>
-        <item>NR 36 - Segurança e Saúde no Trabalho nas Empresas de Abate, Processamento de Carnes e Derivados</item>
-        <item>NR 37 - Segurança e Saúde em Plataformas de Petróleo</item>
-
-
-    </string-array>
-    <string-array name="menu_treinamentos">
-
-        <item>E.P.I. e E.P.C.</item>
-        <item>Condições Sanitárias</item>
-        <item>Materiais Químicos</item>
-        <item>Riscos da Função</item>
-        <item>Foco na atividade</item>
-        <item>Insalubridade e Periculosidade</item>
-        <item>Sinalização de Segurança</item>
-        <item>Controle de Perdas</item>
-        <item>Absenteísmo e Assiduidade</item>
-        <item>Acidentes de Trabalho</item>
-        <item>Exames ocupacionais e ASO</item>
-        <item>LER e DORT</item>
-
-
-    </string-array>
-    <string-array name="lista_primeirossocorros">
-
-        <item>➤ INFORMAÇÕES GERAIS </item>
-        <item>Esmagamentos</item>
-        <item>Amputação</item>
-        <item>Cortes e escoriações</item>
-        <item>Engasgamentos</item>
-        <item>Desmaios e convulções</item>
-        <item>Animais peçonhentos</item>
-        <item>Descarga elétrica</item>
-        <item>Hemorragia Nasal</item>
-        <item>Queimaduras</item>
-        <item>Fraturas</item>
-        <item>Afogamentos</item>
-        <item>Mordida de animais</item>
-
-    </string-array>
-
-    <string-array name="lista_temasdedds">
-
-        <item>Trabalho em andaimes</item>
-        <item>A importância do capacete de segurança</item>
-        <item>Choque elétrico</item>
-        <item>ASO</item>
-        <item>CIPA</item>
-        <item>Ordem de serviço</item>
-        <item>O que embarga e o que interdita?</item>
-        <item>Vapores e Gases</item>
-        <item>Resíduo industrial</item>
-        <item>Lavagem de mãos</item>
-        <item>Risco com baterias</item>
-        <item>PFF1, PFF2 ou PFF3?</item>
-        <item>Protetor auricular: plug ou concha?</item>
-
-
-    </string-array>
-    <string-array name="lista_nho">
-
-        <item>NHO 1 - Avaliação de exposição ocupacional ao ruído</item>
-        <item>NHO 2 - Análise qualitativa da fração volátil (Vapores orgânicos)</item>
-        <item>NHO 3 - Análise gravimétrica de aerodispersóides sólidos coletados sobre filtros de membrana</item>
-        <item>NHO 4 - Método de coleta e análise de fibras em locais de trabalho</item>
-        <item>NHO 5 - Avaliação da exposição ocupacional aos raios X nos serviços de radiologia</item>
-        <item>NHO 6 - Avaliação da exposição ocupacional ao calor</item>
-        <item>NHO 7 - Calibragem de bombas de amostragem individual pelo método da bolha de sabão</item>
-        <item>NHO 8 - Coleta de material particulado sólido suspenso no ar de ambientes de trabalho</item>
-        <item>NHO 9 - Avaliação da exposição ocupacional a vibrações de corpo inteiro</item>
-        <item>NHO 10 - Avaliação da exposição ocupacional a vibrações em mãos e braços</item>
-        <item>NHO 11 - Avaliação dos níveis de iluminamento em ambientes internos de trabalho</item>
-
-    </string-array>
 
 </resources>
