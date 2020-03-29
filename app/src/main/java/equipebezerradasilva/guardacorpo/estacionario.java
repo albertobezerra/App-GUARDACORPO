@@ -15,6 +15,7 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
+import com.onesignal.OneSignal;
 
 public class estacionario extends AppCompatActivity implements Runnable {
 
@@ -25,6 +26,13 @@ public class estacionario extends AppCompatActivity implements Runnable {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_estacionario);
+
+            // OneSignal Initialization
+            OneSignal.startInit(this)
+                    .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
+                    .unsubscribeWhenNotificationsAreDisabled(true)
+                    .init();
+
 
         if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.READ_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED)
             ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_EXTERNAL_STORAGE}, REQUEST_ACESS_FINE);
@@ -100,13 +108,13 @@ public class estacionario extends AppCompatActivity implements Runnable {
                 }
 
                 if (position == 7) {
-                    Intent myIntent = new Intent(view.getContext(), mapa.class);
+                    Intent myIntent = new Intent(view.getContext(), datas.class);
                     startActivityForResult(myIntent, 7);
                     displayInterstitial();
                 }
 
                 if (position == 8) {
-                    Intent myIntent = new Intent(view.getContext(), datas.class);
+                    Intent myIntent = new Intent(view.getContext(), mapa.class);
                     startActivityForResult(myIntent, 8);
                     displayInterstitial();
                 }

@@ -20,11 +20,6 @@ public class sinalizacao extends AppCompatActivity {
         mAdView.loadAd(adRequest);
     }
 
-    public void sinalizacao_exemplo(View view) {
-
-        Intent secondActivity = new Intent(this, sinalizacao_exemplo.class);
-        startActivity(secondActivity);
-    }
 
     public void voltar_estacionario(View view) {
 

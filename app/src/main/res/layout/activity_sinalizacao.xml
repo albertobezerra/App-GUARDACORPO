@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".sinalizacao"
-    android:background="@color/verde">
+    android:background="@color/white">
 
     <RelativeLayout
         android:id="@+id/menu"
@@ -13,22 +13,11 @@
         android:layout_height="80dp">
 
         <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:layout_alignParentStart="true"
-            android:layout_centerVertical="true"
-            android:layout_marginStart="20dp"
-            android:background="@drawable/back"
-            android:onClick="voltar_estacionario" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_centerInParent="true"
-            android:text="Sinaliz. de seg."
-            android:textColor="@android:color/white"
-            android:textSize="24sp"
-            />
+            android:background="@drawable/btnvoltargeral"
+            android:onClick="voltar_estacionario" />
 
     </RelativeLayout>
 
@@ -60,6 +49,7 @@
             android:orientation="vertical" >
 
             <TextView
+                android:textColor="@color/preto"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
                 android:text="@string/sinalizacao"
@@ -71,16 +61,6 @@
                 android:layout_centerHorizontal="true"
                 android:id="@+id/textView17" />
 
-            <Button
-                android:id="@+id/button2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/textView17"
-                android:layout_centerHorizontal="true"
-                android:layout_marginBottom="45dp"
-                android:layout_marginTop="35dp"
-                android:onClick="sinalizacao_exemplo"
-                android:text="Exemplo" />
 
 
         </RelativeLayout>
