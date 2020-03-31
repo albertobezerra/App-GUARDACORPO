@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.GridView;
 import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
@@ -29,13 +30,22 @@ public class dds_estacionario extends AppCompatActivity implements Runnable {
                 AdRequest adRequest2 = new AdRequest.Builder().build();
                 interstitialAd.loadAd(adRequest2);
 
-                final ListView lista1 = (ListView) findViewById(R.id.lista_temasdedds);
-                final ArrayAdapter adapter = ArrayAdapter.createFromResource(this, R.array.lista_temasdedds, android.R.layout.simple_list_item_1);
-                lista1.setAdapter(adapter);
+        int[] lista4 = new int[]{
 
-                lista1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                    public void onItemClick(AdapterView<?> parent, View view,
-                                            int position, long id) {
+                R.drawable.btndds1, R.drawable.btndds2, R.drawable.btndds3, R.drawable.btndds4,
+                R.drawable.btndds5, R.drawable.btndds6, R.drawable.btndds7, R.drawable.btndds8,
+                R.drawable.btndds9, R.drawable.btndds10, R.drawable.btndds11, R.drawable.btndds12,
+                R.drawable.btndds13,
+        };
+
+
+        GridView gv = (GridView) findViewById(R.id.grid_dds);
+
+        gv.setAdapter(new adaptador(this, lista4));
+
+        gv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            public void onItemClick(AdapterView<?> parent, View view,
+                                    int position, long id) {
 
                         if (position == 0) {
                             Intent myIntent = new Intent(view.getContext(), dds1.class);

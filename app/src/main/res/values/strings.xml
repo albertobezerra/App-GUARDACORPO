@@ -608,24 +608,6 @@
 
     </string>
 
-    <string-array name="lista_primeirossocorros">
-
-        <item>➤ INFORMAÇÕES GERAIS </item>
-        <item>Esmagamentos</item>
-        <item>Amputação</item>
-        <item>Cortes e escoriações</item>
-        <item>Engasgamentos</item>
-        <item>Desmaios e convulções</item>
-        <item>Animais peçonhentos</item>
-        <item>Descarga elétrica</item>
-        <item>Hemorragia Nasal</item>
-        <item>Queimaduras</item>
-        <item>Fraturas</item>
-        <item>Afogamentos</item>
-        <item>Mordida de animais</item>
-
-    </string-array>
-
     <string name="soco1">São nos primeiros socorros que podemos salvar a vida de qualquer pessoa. A NR 7 diz que todo estabelecimento deverá estar equipado com material necessário à prestação dos primeiros socorros, considerando-se as características da atividade desenvolvida. O material deve ser guardado em local adequado e aos cuidados de pessoa treinada para esse fim.
 
         \n\nContudo, a pessoa que vai prestar os primeiros socorros deve ser devidamente treinada para tal. No treinamento os responsáveis pelo kit precisam aprender a manusear os equipamentos, fazer curativos e prestar atendimento.
@@ -802,7 +784,9 @@
     </string>
 
 
-    <string name="dds1">Os andaimes são muito utilizados pela construção civil. Eles servem para o uso de trabalho em altura como exemplo: construção, demolição, reforma, pintura, limpeza e manutenção.
+    <string name="dds1"><b>Trabalho em Andaimes</b>
+
+        \n\nOs andaimes são muito utilizados pela construção civil. Eles servem para o uso de trabalho em altura como exemplo: construção, demolição, reforma, pintura, limpeza e manutenção.
 
         \n\nFale sobre a importação da fixação correta do mesmo para poder ser utilizado de forma correta. Se a empresa já possuir algum histórico de acidente com andaime o use como exemplo.
 
@@ -811,7 +795,9 @@
         \n\nPor fim reforce a paralisação das atividades em altura em caso de presença de chuva ou situações da natureza que traga risco ao colaborador.
 
     </string>
-    <string name="dds2">O capacete de segurança salva muitas vidas. Usado bastante pela construção, todavia não é de uso exclusivo da construção civil.
+    <string name="dds2"><b>A importância do capacete de segurança</b>
+
+        \n\nO capacete de segurança salva muitas vidas. Usado bastante pela construção, todavia não é de uso exclusivo da construção civil.
 
         \n\nO capacete de segurança é útil para toda e qualquer atividade em que os colaboradores estejam expostos à projeção de material que venham de cima para baixo.
 
@@ -822,7 +808,9 @@
         \n\nÉ bom ressaltar que sabe-se que o capacete assim como outros epi’s incomodam, mas, tem que ser usado para preservar a saúde do colaborador.
 
     </string>
-    <string name="dds3">Choque elétrico que todos os colaboradores independente do tipo de local de trabalho sempre está exposto.
+    <string name="dds3"><b>Choque Elétrico</b>
+
+        \n\nChoque elétrico que todos os colaboradores independente do tipo de local de trabalho sempre está exposto.
         \n\nPraticamente em todos os setores de uma empresa/estabelecimento usa energia elétrica.
 
         \n\nDeve ser levado em consideração todo aterramento correto da parte elétrica, assim como também deve ser ressaltado a importância da atenção dos colaboradores quando foram trabalhar com equipamentos energizados, ambientes com presença de água.
@@ -852,12 +840,14 @@
 
 
     </string>
-    <string name="dds7">O embargo e interdição é tema de NR. Essa NR vem para definir limites de segurança para a existência de uma obra ou uso de um equipamento.
+    <string name="dds7">O embargo e interdição são tema de NRs. Essa NR vem para definir limites de segurança para a existência de uma obra ou uso de um equipamento.
         \n\nO que é embargado? Obras! O que é interditado? Máquinas e equipamentos.
         \n\nDeve ser evidenciado que qualquer alteração em máquinas, equipamentos ou edificação dever sinalizado de forma imediata para a segurança de todos.
 
     </string>
-    <string name="dds8">Vapor é a fase gasosa de uma substância, que em condições normais de temperatura e pressão é sólida ou líquida.
+    <string name="dds8"><b>Vapores e Gases</b>
+
+        \n\nVapor é a fase gasosa de uma substância, que em condições normais de temperatura e pressão é sólida ou líquida.
 
         \n\nExemplos : Vapores de água, vapores de gasolina, vapores de naftalina, etc.
 
@@ -871,7 +861,9 @@
         \n\nOs resíduos gasosos deverão ser eliminados dos locais de trabalho através de métodos, equipamentos ou medidas adequadas, sendo proibido o lançamento ou a liberação de quaisquer contaminantes gasosos se ultrapassarem os limites de tolerância estabelecidos pela Norma Regulamentadora.
 
     </string>
-    <string name="dds9">Conforme as normas estabelecidas pela Associação Brasileira de Normas Técnicas (ABNT), resíduos sólidos são materiais em estado sólido ou semissólido, que resultam de atividade industrial, doméstica, hospitalar, comercial, agrícola, de serviços e de varrição.
+    <string name="dds9"><b>Resíduo Industrial</b>
+
+        \n\nConforme as normas estabelecidas pela Associação Brasileira de Normas Técnicas (ABNT), resíduos sólidos são materiais em estado sólido ou semissólido, que resultam de atividade industrial, doméstica, hospitalar, comercial, agrícola, de serviços e de varrição.
         \n\nResíduos perigosos são lodos provenientes de sistemas de tratamento de água, bem como determinados líquidos cujas características tornem inviável seu lançamento na rede pública de esgotos, rios e lagos ou exijam tratamento através de soluções técnicas inviáveis e/ou de custo muito elevado.
 
         \n\nOs resíduos são classificados conforme sua periculosidade, que, em função de suas propriedades físicas, químicas ou infectocontagiosas, podem apresentar riscos à saúde pública ou ao meio ambiente.
@@ -910,7 +902,9 @@
         \n\nLembre-se: lavar as mãos é um detalhe que faz toda a diferença, não apenas na sua saúde, mas também na saúde de seus entes queridos e de toda a comunidade.
 
     </string>
-    <string name="dds11">As baterias comuns de automóveis parecem inofensivas. Isso pode apresentar o maior perigo, porque muitas pessoas que trabalham com elas ou próxima delas parecem desatentas em relação a seus riscos em potencial.
+    <string name="dds11"><b>Riscos com Baterias</b>
+
+        \n\nAs baterias comuns de automóveis parecem inofensivas. Isso pode apresentar o maior perigo, porque muitas pessoas que trabalham com elas ou próxima delas parecem desatentas em relação a seus riscos em potencial.
     O resultado é o crescente número de acidentes no trabalho relacionados com o mau uso ou abuso das baterias.
 
     \n\nMuitos dos acidentes podem ser evitados se respeitarmos os principais riscos das baterias:
@@ -928,7 +922,9 @@
     \n\nFique atento especialmente em relação ao centelhamento quando se tentar jumpear uma bateria descarregada. Estas pontes (jumpers) podem provocar um arco voltaico e centelhas que podem inflamar o hidrogênio.
 
     </string>
-    <string name="dds12">O material geralmente utilizado para a confecção de uma máscara descartável é uma combinação de duas ou mais camadas de manta de polipropileno.
+    <string name="dds12"><b>PFF1, PFF2 ou PFF3?</b>
+
+        \n\nO material geralmente utilizado para a confecção de uma máscara descartável é uma combinação de duas ou mais camadas de manta de polipropileno.
         \n\nA camada filtrante pode ser feita de manta de fibra de polipropileno à qual, posteriormente, deu-se uma carga eletrostática para melhorar a eficiência da filtragem.
         \n\nApós cortarem-se as peças faciais, estas recebem uma solda por ultra-som para dar-lhes forma. Em seguida, recebem uma costura ou fixação dos tirantes para então serem finalizadas e embaladas.
         \n\nAs máscaras descartáveis podem ou não conter válvula de exalação.
@@ -941,7 +937,9 @@
         \n\nPFF3 – Geralmente indicada para proteção contra partículas tóxicas químicas finíssimas.
 
     </string>
-    <string name="dds13">A rotina de ouvir os sons do ambiente, como o barulho do tráfego no deslocamento diário para o trabalho, possivelmente passa despercebida por você e tantos outros, mas pode fazer falta para muitos.
+    <string name="dds13"><b>Protetor Auricular</b>
+
+        \n\nA rotina de ouvir os sons do ambiente, como o barulho do tráfego no deslocamento diário para o trabalho, possivelmente passa despercebida por você e tantos outros, mas pode fazer falta para muitos.
         A perda auditiva é realidade para uma parcela de brasileiros. Boa parte dos acometidos por algum grau de deficiência auditiva desenvolveu o problema devido à exposição ocupacional ao ruído.
 
         \n\nO único meio de evitar danos ao ouvido do trabalhador, em atividades nas quais a eliminação total do ruído não é viável, é o controle do agente na fonte.
@@ -957,24 +955,6 @@
 
     </string>
 
-    <string-array name="lista_temasdedds">
-
-        <item>Trabalho em andaimes</item>
-        <item>A importância do capacete de segurança</item>
-        <item>Choque elétrico</item>
-        <item>ASO</item>
-        <item>CIPA</item>
-        <item>Ordem de serviço</item>
-        <item>O que embarga e o que interdita?</item>
-        <item>Vapores e Gases</item>
-        <item>Resíduo industrial</item>
-        <item>Lavagem de mãos</item>
-        <item>Risco com baterias</item>
-        <item>PFF1, PFF2 ou PFF3?</item>
-        <item>Protetor auricular: plug ou concha?</item>
-
-
-    </string-array>
 
     <string name="nbrs">NBR 9050 - Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.
 
