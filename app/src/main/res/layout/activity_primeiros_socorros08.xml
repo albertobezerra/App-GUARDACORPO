@@ -60,7 +60,7 @@
                 android:layout_marginRight="30dp"
                 android:layout_marginTop="20dp"
                 android:text="@string/soco8"
-                android:textColor="@android:color/white"/>
+                android:textColor="#000"/>
 
         </LinearLayout>
     </ScrollView>
