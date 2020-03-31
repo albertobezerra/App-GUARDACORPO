@@ -1,9 +1,11 @@
 package equipebezerradasilva.guardacorpo;
 
 import android.content.Intent;
-import androidx.appcompat.app.AppCompatActivity;
+import android.content.pm.ActivityInfo;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
 import com.github.barteksc.pdfviewer.PDFView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;

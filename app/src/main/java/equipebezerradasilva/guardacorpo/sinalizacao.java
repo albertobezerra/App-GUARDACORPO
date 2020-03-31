@@ -1,7 +1,7 @@
 package equipebezerradasilva.guardacorpo;
 
 import android.content.Intent;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
@@ -20,6 +20,11 @@ public class sinalizacao extends AppCompatActivity {
         mAdView.loadAd(adRequest);
     }
 
+    public void sinalizacao_exemplo(View view) {
+
+        Intent secondActivity = new Intent(this, sinalizacao_exemplo.class);
+        startActivity(secondActivity);
+    }
 
     public void voltar_estacionario(View view) {
 

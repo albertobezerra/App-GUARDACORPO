@@ -301,7 +301,9 @@
         <activity
             android:name=".sinalizacao"
             android:theme="@style/AppCompat.Tela_Cheia" />
-        <!-- MAPA -->
+        <activity
+            android:name=".sinalizacao_exemplo"
+            android:theme="@style/AppCompat.Tela_Cheia" /> <!-- MAPA -->
         <activity
             android:name=".mapa"
             android:theme="@style/AppCompat.Tela_Cheia" />
