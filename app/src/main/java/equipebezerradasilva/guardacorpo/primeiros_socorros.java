@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.GridView;
 import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
@@ -27,11 +28,21 @@ public class primeiros_socorros extends AppCompatActivity implements Runnable{
         AdRequest adRequest2 = new AdRequest.Builder().build();
         interstitialAd.loadAd(adRequest2);
 
-        final ListView lista1 = (ListView) findViewById(R.id.lista_primeirossocorros);
-        final ArrayAdapter adapter = ArrayAdapter.createFromResource(this, R.array.lista_primeirossocorros, android.R.layout.simple_list_item_1);
-        lista1.setAdapter(adapter);
+        int[] lista4 = new int[]{
 
-        lista1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                R.drawable.btnprimeirossocorros1, R.drawable.btnprimeirossocorros2, R.drawable.btnprimeirossocorros3,
+                R.drawable.btnprimeirossocorros4, R.drawable.btnprimeirossocorros5, R.drawable.btnprimeirossocorros6,
+                R.drawable.btnprimeirossocorros7, R.drawable.btnprimeirossocorros8, R.drawable.btnprimeirossocorros9,
+                R.drawable.btnprimeirossocorros10, R.drawable.btnprimeirossocorros11, R.drawable.btnprimeirossocorros12,
+                R.drawable.btnprimeirossocorros13,
+        };
+
+
+        GridView gv = (GridView) findViewById(R.id.grid_primeirossocorros);
+
+        gv.setAdapter(new adaptador(this, lista4));
+
+        gv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
 

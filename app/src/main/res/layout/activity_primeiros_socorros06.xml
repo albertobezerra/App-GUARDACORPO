@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".primeiros_socorros06"
-    android:background="@color/verde">
+    android:background="@color/white">
 
     <RelativeLayout
         android:id="@+id/menu"
@@ -13,21 +13,11 @@
         android:layout_height="80dp">
 
         <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:layout_alignParentStart="true"
-            android:layout_centerVertical="true"
-            android:layout_marginStart="20dp"
-            android:background="@drawable/back"
-            android:onClick="voltar_primeirossocorros" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_centerInParent="true"
-            android:text="Desmaios e conv."
-            android:textColor="@android:color/white"
-            android:textSize="24sp" />
+            android:background="@drawable/btnvoltargeral"
+            android:onClick="voltar_treinamentos" />
 
     </RelativeLayout>
 
@@ -70,7 +60,7 @@
                 android:layout_marginRight="30dp"
                 android:layout_marginTop="20dp"
                 android:text="@string/soco6"
-                android:textColor="@android:color/white"/>
+                android:textColor="#000"/>
 
         </LinearLayout>
     </ScrollView>
