@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="soco9">Hemorragia nasal é a perda de sangue pelo nariz, causada pela ruptura de um vaso sanguíneo.
+    <string name="soco9"><b>Hemorragia nasal</b>
+
+        \n\nÉ́ a perda de sangue pelo nariz, causada pela ruptura de um vaso sanguíneo.
         \n\n\n<b>O que fazer?</b>
         \n\n\n • Sentar a pessoa com a cabeça levemente inclinada para a frente, fazendo-a respirar pela boca, evitando que o sangue vá para a garganta e seja engolido.
         \n\n • Pressionar as narinas por cerca de 10 minutos.
@@ -9,7 +11,8 @@
         \n\n • Colocar compressas frias sobre o nariz.
     </string>
 
-    <string name="soco10">Queimaduras podem ser provocadas por choque elétrico, fogo, ferro quente, água quente, exposição prolongada ao sol forte e outras situações.
+    <string name="soco10"><b>Queimaduras</b>
+        \n\nPodem ser provocadas por choque elétrico, fogo, ferro quente, água quente, exposição prolongada ao sol forte e outras situações.
         \n\n\n<b>O que fazer?</b>
         \n\n\n • Se a queimadura for superficial, lavar apenas com água gelada e secar o local com pano limpo.
         \n\n • Se houver necessidade de um curativo, deve-se fazê-lo com gaze para proteger, evitar atrito e contaminação.
@@ -20,7 +23,8 @@
         \n\nSe houver o aparecimento de bolhas, não as fure e não use pomadas, pasta de dente, azeite ou outro produto caseiro.
 
     </string>
-    <string name="soco11">É a ruptura ou quebra de um osso. Podem ser ocasionadas por uma queda ou um choque entre dois corpos.
+    <string name="soco11"><b>Fraturas</b>
+        \n\nÉ a ruptura ou quebra de um osso. Podem ser ocasionadas por uma queda ou um choque entre dois corpos.
         \n\nQuando uma pessoa sofre algum tipo de fratura, ela deve ser encaminhada a um hospital para receber cuidados médicos.
 
         \n\n\n<b>O que fazer?</b>
@@ -30,7 +34,8 @@
 
 
     </string>
-    <string name="soco12">Quando uma pessoa se afoga, ela perde a respiração. Isso acontece porque suas vias aéreas ficam inundadas.
+    <string name="soco12"><b>Afogamentos</b>
+        \n\nQuando uma pessoa se afoga, ela perde a respiração. Isso acontece porque suas vias aéreas ficam inundadas.
 
         \n\n\n<b>O que fazer?</b>
 
@@ -39,7 +44,8 @@
 
 
     </string>
-    <string name="soco13">A mordida de cachorros e gatos pode ocasionar a raiva, que é uma doença muito perigosa. Ela pode ser evitada por meio da vacina antirrábica, que é aplicada nesses animais.
+    <string name="soco13"><b>Mordida de Animais</b>
+        \n\nA mordida de cachorros e gatos pode ocasionar a raiva, que é uma doença muito perigosa. Ela pode ser evitada por meio da vacina antirrábica, que é aplicada nesses animais.
 
         \n\n\n<b>O que fazer?</b>
 

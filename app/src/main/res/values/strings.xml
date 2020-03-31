@@ -649,16 +649,16 @@
 
 
     </string>
-    <string name="soco2">
-
-
-        Pode resultar em ferimentos abertos ou fechados. O dano tecidual é extenso (músculos, tendões, ossos). Os esmagamentos de tórax e abdome causam graves distúrbios circulatórios e respiratórios, sendo muitas vezes incompatíveis com a vida.
+    <string name="soco2"><b>Esmagamentos</b>
+        \n\nPode resultar em ferimentos abertos ou fechados. O dano tecidual é extenso (músculos, tendões, ossos). Os esmagamentos de tórax e abdome causam graves distúrbios circulatórios e respiratórios, sendo muitas vezes incompatíveis com a vida.
         \n\n\No caso de extremidade presa a maquinaria industrial, desligar a energia da máquina, e em seguida fazer a lenta reversão manual das engrenagens e retirada do membro. Caso não seja possível liberar a extremidade a máquina deverá ser desmontada e transportada juntamente com a vítima ao hospital.
 
 
 
     </string>
-    <string name="soco3">É a separação de um membro ou estrutura do restante do corpo. Pode ser causada por diversos tipos de acidentes. Entre os mais comuns estão os com objetos cortantes (serra elétrica), os acidentes de trânsito (principalmente de moto), a violência, o choque e o esmagamento.
+    <string name="soco3"><b>Amputação</b>
+
+        \n\nÉ a separação de um membro ou estrutura do restante do corpo. Pode ser causada por diversos tipos de acidentes. Entre os mais comuns estão os com objetos cortantes (serra elétrica), os acidentes de trânsito (principalmente de moto), a violência, o choque e o esmagamento.
         \n\nNesse tipo de emergência, a rapidez na busca pelo atendimento é um fator determinante para conter qualquer tipo de infecção e também para o sucesso da reimplantação do membro.
 
         \n\nSe for preciso limpar o local da amputação, faça isso com um pano bem limpo e não use nenhuma outra substância.
@@ -673,7 +673,8 @@
 
 
     </string>
-    <string name="soco4">Os cortes são ferimentos que acontecem com frequência em casa. Existem diversas formas de se machucar, seja com uma faca na cozinha, escorregando no chão molhado, pisando em um caco de vidro ou esbarrando em objetos pontudos. É importante saber cuidar do ferimento para que ele não infeccione.
+    <string name="soco4"><b>Corte e Escoriações</b>
+        \n\nOs cortes são ferimentos que acontecem com frequência em casa. Existem diversas formas de se machucar, seja com uma faca na cozinha, escorregando no chão molhado, pisando em um caco de vidro ou esbarrando em objetos pontudos. É importante saber cuidar do ferimento para que ele não infeccione.
 
         \n\n<b>Primeiros socorros em cortes superficiais</b>
 
@@ -703,7 +704,9 @@
 
 
     </string>
-    <string name="soco5">Denominamos engasgo quando ocorre o bloqueio da traqueia ( órgão responsável em enviar e retirar o ar dos pulmões) por um objeto estranho, por vômito ou até mesmo sangue.
+    <string name="soco5"><b>Engasgamentos</b>
+
+        \n\nDenominamos engasgo quando ocorre o bloqueio da traqueia ( órgão responsável em enviar e retirar o ar dos pulmões) por um objeto estranho, por vômito ou até mesmo sangue.
 
         \n\nFisiologicamente, a traqueia é frequentemente protegida pela epiglote; esta nada mais serve como uma porta que abre e fecha, conforme a necessidade de ar. Assim, quando ocorre a passagem de ar, a epiglote permanece aberta, porém quando ocorre a alimentação, a epiglote é fechada, impedindo que qualquer alimento ou corpo estranho, alcance a traqueia e, posteriormente, os pulmões.Dessa forma, quando a epiglote falha em sua função, os alimentos, líquidos ou qualquer tipo de objeto estranho, ultrapassa a epiglote, alcançando a traqueia, ocasionando o bloqueio do ar. \n\nPor isso que, em alguns casos, o engasgo pode levar à morte por asfixia e, às vezes, pode até deixar a pessoa parcialmente ou totalmente inconsciente. É necessário saber que dependendo da gravidade do engasgo, este é uma situação de emergência médica, sendo necessário chamar o serviço de atendimento especializado em emergência o mais rápido possível; pode ser uma questão de vida ou morte!
 
@@ -736,7 +739,9 @@
 
 
     </string>
-    <string name="soco6">Desmaios são quedas causadas por um estado de semiconsciência ou inconsciência repentina, quando o cérebro deixa de receber a quantidade necessária de oxigênio ou açúcar para manter suas funções plenamente ativas.
+    <string name="soco6"><b>Desmaios e Convulsões</b>
+
+        \n\nDesmaios são quedas causadas por um estado de semiconsciência ou inconsciência repentina, quando o cérebro deixa de receber a quantidade necessária de oxigênio ou açúcar para manter suas funções plenamente ativas.
 
         \n\nO desmaio pode ser ocasionado por diversas razões como calor, longos períodos sem ingerir alimentos, cansaço, emoções muito fortes, etc.
         \n\nIdentifica-se a pessoa com palidez, pulsação baixa, suor frio, fraqueza, entre outros; assemelha-se em sintomas com o estado de choque.
@@ -763,7 +768,9 @@
         \n\nEm nenhum caso se deve colocar os dedos dentro da boca da vítima para impedir a queda da língua, pois com a contração muscular o indivíduo pode involuntariamente morder a mão do indivíduo.
 
     </string>
-    <string name="soco7">Não fazer sucção do veneno.
+    <string name="soco7"><b>Animais Peçonhetos</b>
+
+        \n\nNão fazer sucção do veneno.
         \n\nNão espremer o local da picada.
         \n\nNão dar nada alcoólico, querosene ou fumo para o acidentado.
         \n\nNão fazer torniquete, impedindo a circulação do sangue: isso pode causar gangrena ou necrose local.
@@ -779,7 +786,9 @@
         \n\nNo caso de acidentes causados por escorpiões, aranha-armadeira e viúva-negra, recomenda-se fazer compressas mornas no local e analgésicos para alívio da dor.
 
     </string>
-    <string name="soco8">O choque elétrico é a passagem de uma corrente pelo copo tornando-se um condutor elétrico.
+    <string name="soco8"><b>Choque Elétrico</b>
+
+        \n\nÉ a passagem de uma corrente pelo copo tornando-se um condutor elétrico.
 
         \n\nEssa condução de corrente varia de acordo com a intensidade de volts com que a pessoa é submetida no choque elétrico e pode gerar desde um pequeno susto, até uma fibrilação cardíaca, ou mesmo a morte.
         \n\nO choque elétrico pode ser causado por fenômenos naturais como um raio, por exemplo, ou acidentes como o contato direto com fiações elétricas domésticas ou públicas, áreas energizadas em decorrência de alguma fonte de energia mal isoladas, ou até mesmo o contato direto com uma pessoa que está recebendo uma descarga elétrica.
