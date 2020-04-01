@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".mapa_exemplo"
-    android:background="@color/verde">
+    android:background="@color/white">
 
     <RelativeLayout
         android:id="@+id/menu"
@@ -13,27 +13,16 @@
         android:layout_height="80dp">
 
         <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:layout_alignParentStart="true"
-            android:layout_centerVertical="true"
-            android:layout_marginStart="20dp"
-            android:background="@drawable/back"
-            android:onClick="voltar_mapa" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_centerInParent="true"
-            android:text="Exemplo do mapa"
-            android:textColor="@android:color/white"
-            android:textSize="24sp"
-            />
+            android:background="@drawable/btnvoltargeral"
+            android:onClick="voltar_mapa" />
 
     </RelativeLayout>
 
     <com.github.barteksc.pdfviewer.PDFView
-        android:id="@+id/rola"
+        android:id="@+id/mapa"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginBottom="0dp"

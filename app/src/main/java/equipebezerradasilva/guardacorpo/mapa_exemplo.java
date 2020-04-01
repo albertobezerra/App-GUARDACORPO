@@ -17,7 +17,7 @@ public class mapa_exemplo extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mapa_exemplo);
 
-        pdfView = (PDFView) findViewById(R.id.rola);
+        pdfView = (PDFView) findViewById(R.id.mapa);
         pdfView.fromAsset("mapa.pdf").load();
     }
 

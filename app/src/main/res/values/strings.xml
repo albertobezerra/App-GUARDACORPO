@@ -400,7 +400,8 @@
 
     </string>
 
-    <string name="sinalizacao"><b>Conceito</b>
+    <string name="sinalizacao"><b>Sinalização de Segurança</b>
+        \n\n\n<b>Conceito</b>
         \n\nDentre os métodos de proteção e asseguração da vida, da saúde e da profissão dos trabalhadores que estão inseridos no ramo da Segurança do Trabalho, se encontra a sinalização de segurança.
         Seu objetivo é alertar trabalhadores e visitantes no local sobre os riscos existentes ali, equipamentos protetores e outras informações imprescindíveis para segurança no local.\n\nA sinalização sever para alertar. Com letra clara, ilustrações óbvias de fácil entendimento, o que ajuda em casos emergenciais rapidamente. Nas ilustrações são usados símbolos universais que oferecem entendimento padronizado e não gera duplo sentido ou qualquer outra confusão.
         A utilização das cores também tem seu significado, assim como formas e siglas conhecidas no local de trabalho e no mundo todo.\n\n<b>Estes sinais podem ser classificados como:</b>\n\n<b>Sinais de Obrigação</b> – indicam comportamentos ou ações específicas e a obrigação de utilizar equipamento de proteção individual (EPI).\n\n<b>Sinais de Perigo</b> – indicam situações de atenção, precaução, verificação ou
@@ -447,25 +448,6 @@
 
 
     </string>
-
-
-    <string-array name="menu_treinamentos">
-
-        <item>E.P.I. e E.P.C.</item>
-        <item>Condições Sanitárias</item>
-        <item>Materiais Químicos</item>
-        <item>Riscos da Função</item>
-        <item>Foco na atividade</item>
-        <item>Insalubridade e Periculosidade</item>
-        <item>Sinalização de Segurança</item>
-        <item>Controle de Perdas</item>
-        <item>Absenteísmo e Assiduidade</item>
-        <item>Acidentes de Trabalho</item>
-        <item>Exames ocupacionais e ASO</item>
-        <item>LER e DORT</item>
-
-
-    </string-array>
 
 
     <string name="tre1">O foco do módulo de treinamento não é disponibilizar um treinamento expecífico,
