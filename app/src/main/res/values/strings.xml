@@ -312,7 +312,9 @@
 
     </string>
 
-    <string name="tutorial_penalidade">A NR 28 trata das fiscalizações e penalidades.
+    <string name="tutorial_penalidade"><b>Penalidades</b>
+
+        \n\nA NR 28 trata das fiscalizações e penalidades.
         Em auditoria o agente fiscalizador pode autuar a empresa caso a mesma não cumpra as exigências e determinações expostas pelas normas regulamentadoras.
         \n\nO cálculo das penalidades são feitos com base: número da infração, quantidade de funcionários e o valor da UFIR. Desde o anos 2000 o valor da UFIR é R$ 1, 0641.
 
