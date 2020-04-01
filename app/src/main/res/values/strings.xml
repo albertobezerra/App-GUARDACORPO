@@ -942,8 +942,9 @@
     </string>
 
 
-    <string name="nbrs">NBR 9050 - Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.
+    <string name="nbrs"><b>NBRs Relevantes</b>
 
+        \n\nNBR 9050 - Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.
         \n\nNBR 18801 - Sistemas de Gestão de Segurança e Saúde no Trabalho.
         \n\nNBR 6493 - Emprego de Cores para identificação de tubulações.
         \n\nNBR 7195 - Cores para Sinalização.
