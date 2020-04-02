@@ -953,22 +953,6 @@
 
     </string>
 
-    <string-array name="lista_nho">
-
-        <item>NHO 1 - Avaliação de exposição ocupacional ao ruído</item>
-        <item>NHO 2 - Análise qualitativa da fração volátil (Vapores orgânicos)</item>
-        <item>NHO 3 - Análise gravimétrica de aerodispersóides sólidos coletados sobre filtros de membrana</item>
-        <item>NHO 4 - Método de coleta e análise de fibras em locais de trabalho</item>
-        <item>NHO 5 - Avaliação da exposição ocupacional aos raios X nos serviços de radiologia</item>
-        <item>NHO 6 - Avaliação da exposição ocupacional ao calor</item>
-        <item>NHO 7 - Calibragem de bombas de amostragem individual pelo método da bolha de sabão</item>
-        <item>NHO 8 - Coleta de material particulado sólido suspenso no ar de ambientes de trabalho</item>
-        <item>NHO 9 - Avaliação da exposição ocupacional a vibrações de corpo inteiro</item>
-        <item>NHO 10 - Avaliação da exposição ocupacional a vibrações em mãos e braços</item>
-        <item>NHO 11 - Avaliação dos níveis de iluminamento em ambientes internos de trabalho</item>
-
-    </string-array>
-
     <string name="epi">Os equipamentos de proteção individual são responsávies por proteger os trabalhadores e garantir segurança contra riscos capazes de ameaçar sua saúde e integridade física.
         \nSão especialmente utilizados em funções de risco, em linhas de produção onde os ruídos sejam grandes ou em alturas elevadas acima de 2,00m do nível inferior.
         \n\nOs tipos de equipamentos de proteção individual utilizados podem variar dependendo da atividade a ser realizada ou dos riscos que ela poderá trazer a segurança e a saúde do trabalhador e a parte do corpo que se pretende proteger.

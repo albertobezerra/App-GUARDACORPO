@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.GridView;
 import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
@@ -28,11 +29,19 @@ public class nho_estacionario extends AppCompatActivity implements Runnable{
         AdRequest adRequest2 = new AdRequest.Builder().build();
         interstitialAd.loadAd(adRequest2);
 
-        final ListView lista1 = (ListView) findViewById(R.id.lista_nho);
-        final ArrayAdapter adapter = ArrayAdapter.createFromResource(this, R.array.lista_nho, android.R.layout.simple_list_item_1);
-        lista1.setAdapter(adapter);
+        int[] lista5 = new int[]{
 
-        lista1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                R.drawable.btnnho1, R.drawable.btnnho2, R.drawable.btnnho3, R.drawable.btnnho4,
+                R.drawable.btnnho5, R.drawable.btnnho6, R.drawable.btnnho7, R.drawable.btnnho8,
+                R.drawable.btnnho9, R.drawable.btnnho10, R.drawable.btnnho11,
+        };
+
+
+        GridView gv = (GridView) findViewById(R.id.grid_nhos);
+
+        gv.setAdapter(new adaptador(this, lista5));
+
+        gv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
 

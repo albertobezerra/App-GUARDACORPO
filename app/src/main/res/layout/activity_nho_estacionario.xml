@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".normas"
-    android:background="@color/verde">
+    android:background="@color/white">
 
     <RelativeLayout
         android:id="@+id/menu"
@@ -13,33 +13,31 @@
         android:layout_height="80dp">
 
         <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_alignParentStart="true"
-            android:layout_centerVertical="true"
-            android:layout_marginStart="20dp"
-            android:background="@drawable/back"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginEnd="0dp"
+            android:background="@drawable/btnvoltar17"
             android:onClick="voltar_estacionario" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerInParent="true"
-            android:text="NHO's"
-            android:textColor="@android:color/white"
-            android:textSize="24sp"
-            />
 
     </RelativeLayout>
 
-    <ListView
+    <GridView
+        android:id="@+id/grid_nhos"
         android:layout_width="0dp"
         android:layout_height="0dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginStart="22dp"
+        android:horizontalSpacing="8dp"
+        android:verticalSpacing="8dp"
+        android:layout_marginBottom="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/menu"
-        android:id="@+id/lista_nho"
-        />
+        app:layout_constraintTop_toBottomOf="@+id/menu" />
 
 </android.support.constraint.ConstraintLayout>
