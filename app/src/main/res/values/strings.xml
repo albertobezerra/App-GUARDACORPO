@@ -1164,7 +1164,9 @@
         \n\n\nNo PPRA esses riscos ambientais ganham cores: riscos físicos (verde), químicos (vermelho), biológico (marron), acidente (azul) e ergonômico (amarelo)
     </string>
 
-    <string name="esocial">A partir de julho de 2019, empresas com faturamento anual acima de R$ 78 milhões começarão a enviar as informações de saúde e segurança para o eSocial. 
+    <string name="esocial"><b>E-social</b>
+
+            \n\nA partir de julho de 2019, empresas com faturamento anual acima de R$ 78 milhões começarão a enviar as informações de saúde e segurança para o eSocial.
             \n\nApesar da prorrogação do prazo inicial, as companhias não podem se descuidar da preparação, já que o período de testes está prestes a começar. 
             \n\nE como o sistema é cheio de pequenos detalhes que devem ser observados, vamos explicar como funcionam as tabelas eSocial aplicadas à área de SST.
             \n\nO eSocial é dividido em eventos, divididos em quatro categorias: iniciais ou de tabela, periódicos ou não. Eles nada mais são do que um conjunto de dados que precisam ser enviados sobre determinado assunto – que já eram obrigatórios de acordo com a legislação, mas que agora serão compilados em um único lugar.
