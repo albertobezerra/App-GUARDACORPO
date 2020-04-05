@@ -15,7 +15,7 @@ repositories {
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 28
 
 
     lintOptions {
@@ -31,9 +31,9 @@ android {
                                 // Project number pulled from dashboard, local value is ignored.
                                 onesignal_google_project_number: "468348031627"]
         minSdkVersion 19
-        targetSdkVersion 27
-        versionCode 19
-        versionName "2.5.1"
+        targetSdkVersion 28
+        versionCode 20
+        versionName "3.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
